@@ -12,7 +12,6 @@ pip install ts3l
 
 ## SCARF Github
 Link: https://github.com/Alcoholrithm/TabularS3L
-Quick Start (Code taken from orignal repo)
 
 #### SCARF: Self-Supervised Contrastive Learning using Random Feature Corruption
 SCARF introduces a contrastive learning framework specifically tailored for tabular data. By corrupting random subsets of features, SCARF creates diverse views for self-supervised learning in its first phase. The subsequent phase transitions to supervised learning, utilizing a pretrained encoder to enhance model accuracy and robustness.
