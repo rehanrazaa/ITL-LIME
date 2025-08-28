@@ -1,0 +1,651 @@
+Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfaction,Job Satisfaction,Sleep Duration,Dietary Habits,Degree,Have you ever had suicidal thoughts ?,Work/Study Hours,Financial Stress,Family History of Mental Illness,Depression
+Female,20,Kolkata,Student,4,0,9.98,4,0,'7-8 hours',Unhealthy,'Class 12',No,4,5,No,1
+Male,28,Patna,Student,4,0,6.27,3,0,'5-6 hours',Unhealthy,B.Ed,Yes,3,4,No,1
+Female,26,Patna,Student,4,0,9.63,4,0,'5-6 hours',Unhealthy,B.Com,Yes,0,5,No,1
+Male,28,Patna,Student,4,0,8.7,3,0,'7-8 hours',Unhealthy,BCA,Yes,6,4,Yes,1
+Male,18,Kolkata,Student,5,0,8.58,5,0,'5-6 hours',Healthy,'Class 12',Yes,12,3,No,1
+Female,28,Patna,Student,3,0,7.3,3,0,'7-8 hours',Unhealthy,B.Com,Yes,2,4,Yes,1
+Female,21,Kolkata,Student,2,0,9.39,2,0,'7-8 hours',Unhealthy,MCA,Yes,11,5,Yes,1
+Female,21,Kolkata,Student,4,0,9.84,5,0,'Less than 5 hours',Unhealthy,B.Arch,Yes,11,4,No,1
+Male,30,Patna,Student,3,0,5.75,3,0,'5-6 hours',Moderate,MBBS,Yes,10,5,No,1
+Male,32,Kolkata,Student,3,0,8.62,2,0,'5-6 hours',Healthy,PhD,Yes,0,5,No,1
+Male,33,Patna,Student,1,0,5.11,3,0,'5-6 hours',Unhealthy,M.Tech,Yes,10,5,Yes,1
+Male,29,Patna,Student,2,0,7.51,4,0,'5-6 hours',Moderate,M.Pharm,Yes,12,4,Yes,1
+Male,23,Patna,Student,4,0,8.24,5,0,'Less than 5 hours',Healthy,B.Com,Yes,10,5,Yes,1
+Female,21,Patna,Student,3,0,5.86,2,0,'7-8 hours',Healthy,MA,Yes,8,4,No,1
+Male,19,Patna,Student,3,0,6.75,4,0,'More than 8 hours',Unhealthy,'Class 12',Yes,6,5,No,1
+Male,24,Kolkata,Student,3,0,9.71,4,0,'7-8 hours',Moderate,M.Tech,Yes,12,4,No,1
+Female,20,Patna,Student,2,0,5.58,2,0,'5-6 hours',Healthy,'Class 12',Yes,4,3,No,1
+Male,30,Kolkata,Student,4,0,7.15,4,0,'5-6 hours',Unhealthy,MD,Yes,11,5,No,1
+Male,25,Kolkata,Student,5,0,5.79,3,0,'7-8 hours',Unhealthy,B.Tech,Yes,10,2,Yes,1
+Female,34,Patna,Student,5,0,6.39,3,0,'Less than 5 hours',Unhealthy,MSc,Yes,8,3,Yes,1
+Male,29,Kolkata,Student,2,0,8.19,1,0,'7-8 hours',Moderate,MA,Yes,11,2,Yes,1
+Male,25,Kolkata,Student,4,0,7.48,3,0,'More than 8 hours',Unhealthy,B.Com,No,6,2,No,1
+Male,20,Patna,Student,5,0,6.37,3,0,'5-6 hours',Healthy,'Class 12',No,10,5,No,1
+Male,25,Kolkata,Student,5,0,9.42,4,0,'7-8 hours',Unhealthy,BHM,Yes,11,4,Yes,1
+Male,18,Patna,Student,4,0,8.17,4,0,'More than 8 hours',Unhealthy,'Class 12',No,11,1,No,1
+Female,27,Kolkata,Student,3,0,9.96,3,0,'Less than 5 hours',Healthy,PhD,No,12,1,No,1
+Male,27,Kolkata,Student,5,0,8.61,3,0,'7-8 hours',Unhealthy,BSc,No,1,4,No,1
+Female,20,Patna,Student,3,0,5.76,1,0,'7-8 hours',Moderate,'Class 12',Yes,6,3,Yes,1
+Female,25,Kolkata,Student,3,0,9.25,3,0,'Less than 5 hours',Moderate,B.Ed,Yes,8,3,No,1
+Male,19,Kolkata,Student,2,0,9.79,5,0,'7-8 hours',Unhealthy,'Class 12',Yes,6,5,No,1
+Male,23,Kolkata,Student,4,0,9.41,1,0,'5-6 hours',Moderate,BHM,No,0,5,No,1
+Male,25,Kolkata,Student,3,0,7.35,4,0,'5-6 hours',Unhealthy,M.Pharm,Yes,7,5,Yes,1
+Female,21,Patna,Student,3,0,8.1,4,0,'Less than 5 hours',Healthy,B.Arch,Yes,11,1,No,1
+Male,27,Kolkata,Student,5,0,8.04,1,0,'5-6 hours',Healthy,Others,No,11,3,Yes,1
+Female,20,Patna,Student,3,0,6,1,0,'More than 8 hours',Healthy,'Class 12',Yes,9,4,Yes,1
+Male,25,Kolkata,Student,3,0,9.66,4,0,'7-8 hours',Healthy,BHM,Yes,10,4,No,1
+Male,23,Patna,Student,3,0,6.99,4,0,'7-8 hours',Moderate,B.Pharm,Yes,0,2,Yes,1
+Female,23,Patna,Student,5,0,8.14,4,0,'Less than 5 hours',Unhealthy,MBBS,Yes,7,4,No,1
+Female,18,Patna,Student,3,0,8.73,2,0,'Less than 5 hours',Moderate,'Class 12',Yes,9,3,Yes,1
+Male,23,Patna,Student,3,0,8.54,2,0,'7-8 hours',Unhealthy,B.Ed,Yes,0,5,No,1
+Female,29,Kolkata,Student,5,0,9.5,3,0,'Less than 5 hours',Unhealthy,LLM,Yes,2,1,Yes,1
+Male,26,Kolkata,Student,4,0,9.34,2,0,'7-8 hours',Unhealthy,B.Ed,Yes,5,5,No,1
+Male,34,Kolkata,Student,5,0,8.73,2,0,'7-8 hours',Unhealthy,BE,No,9,3,Yes,1
+Male,33,Kolkata,Student,5,0,9.98,2,0,'7-8 hours',Moderate,BBA,Yes,4,4,Yes,1
+Female,21,Patna,Student,4,0,8.44,5,0,'More than 8 hours',Moderate,B.Com,Yes,9,4,No,1
+Male,28,Patna,Student,3,0,8.38,1,0,'7-8 hours',Unhealthy,BCA,Yes,7,5,No,1
+Male,32,Kolkata,Student,3,0,9.71,2,0,'5-6 hours',Moderate,B.Tech,Yes,12,4,Yes,1
+Male,31,Patna,Student,5,0,5.72,1,0,'Less than 5 hours',Moderate,'Class 12',Yes,11,5,No,1
+Female,28,Patna,Student,3,0,8.96,2,0,'More than 8 hours',Moderate,B.Tech,Yes,10,5,Yes,1
+Male,24,Kolkata,Student,4,0,5.82,2,0,'More than 8 hours',Unhealthy,M.Tech,Yes,11,4,Yes,1
+Male,27,Patna,Student,3,0,9.96,1,0,'Less than 5 hours',Unhealthy,M.Com,No,1,1,Yes,1
+Male,32,Patna,Student,4,0,6.89,3,0,'5-6 hours',Moderate,B.Arch,Yes,5,1,No,1
+Male,25,Patna,Student,1,0,6.47,3,0,'Less than 5 hours',Unhealthy,MA,Yes,6,3,Yes,1
+Female,27,Patna,Student,5,0,8.56,3,0,'5-6 hours',Unhealthy,BHM,Yes,9,4,No,1
+Female,27,Kolkata,Student,5,0,5.16,5,0,'More than 8 hours',Moderate,BHM,Yes,11,4,Yes,1
+Male,26,Patna,Student,5,0,9.39,1,0,'More than 8 hours',Moderate,B.Pharm,Yes,9,5,Yes,1
+Female,20,Patna,Student,3,0,5.41,5,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,11,5,Yes,1
+Male,23,Patna,Student,4,0,8.44,5,0,'7-8 hours',Unhealthy,BSc,Yes,10,5,No,1
+Male,24,Kolkata,Student,5,0,5.12,1,0,'Less than 5 hours',Unhealthy,BSc,No,9,2,Yes,1
+Female,26,Patna,Student,5,0,8.83,1,0,'Less than 5 hours',Moderate,B.Pharm,No,12,4,No,1
+Male,24,Patna,Student,4,0,7.83,1,0,'5-6 hours',Moderate,MBBS,Yes,11,5,No,1
+Female,32,Patna,Student,5,0,6.86,2,0,'More than 8 hours',Moderate,MCA,No,12,5,No,1
+Male,22,Kolkata,Student,5,0,6.37,4,0,'5-6 hours',Moderate,B.Com,Yes,5,4,No,1
+Female,33,Kolkata,Student,5,0,5.32,5,0,'More than 8 hours',Unhealthy,BCA,Yes,10,5,No,1
+Male,26,Kolkata,Student,3,0,7.09,4,0,'Less than 5 hours',Moderate,MBBS,Yes,10,5,Yes,1
+Male,21,Patna,Student,5,0,8.95,5,0,'7-8 hours',Moderate,BA,No,2,5,Yes,1
+Female,33,Kolkata,Student,2,0,8.93,4,0,'7-8 hours',Healthy,LLM,No,11,3,Yes,1
+Male,27,Kolkata,Student,2,0,9.96,5,0,'More than 8 hours',Unhealthy,LLB,No,12,5,No,1
+Male,18,Kolkata,Student,5,0,9.41,4,0,'5-6 hours',Unhealthy,'Class 12',No,12,1,Yes,1
+Male,19,Kolkata,Student,2,0,9.71,4,0,'7-8 hours',Healthy,'Class 12',Yes,10,4,Yes,1
+Female,27,Kolkata,Student,5,0,5.08,4,0,'More than 8 hours',Unhealthy,BSc,No,12,5,Yes,1
+Female,29,Kolkata,Student,3,0,6.99,1,0,'Less than 5 hours',Healthy,M.Ed,Yes,8,1,Yes,1
+Male,24,Kolkata,Student,4,0,9.05,1,0,'Less than 5 hours',Unhealthy,B.Ed,Yes,7,4,Yes,1
+Male,31,Patna,Student,5,0,6.53,2,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,6,2,No,1
+Male,23,Patna,Student,3,0,5.85,4,0,'7-8 hours',Unhealthy,MSc,Yes,10,3,Yes,1
+Female,26,Patna,Student,2,0,6,3,0,'Less than 5 hours',Moderate,LLB,Yes,5,5,No,1
+Male,24,Patna,Student,5,0,6.53,1,0,'5-6 hours',Unhealthy,B.Pharm,No,10,5,Yes,1
+Male,29,Patna,Student,5,0,7.72,2,0,'More than 8 hours',Unhealthy,BCA,Yes,7,1,No,1
+Male,29,Kolkata,Student,5,0,9.86,1,0,'More than 8 hours',Unhealthy,M.Com,Yes,11,3,Yes,1
+Male,23,Kolkata,Student,4,0,5.82,2,0,'More than 8 hours',Unhealthy,MSc,Yes,10,3,No,1
+Female,19,Kolkata,Student,2,0,7.39,3,0,'5-6 hours',Moderate,'Class 12',No,9,4,No,1
+Male,27,Patna,Student,5,0,7.1,3,0,'Less than 5 hours',Moderate,B.Ed,Yes,9,5,Yes,1
+Male,33,Kolkata,Student,5,0,6.16,3,0,'More than 8 hours',Moderate,B.Tech,Yes,1,5,No,1
+Female,30,Patna,Student,3,0,8.62,1,0,'7-8 hours',Moderate,ME,Yes,11,5,Yes,1
+Male,33,Kolkata,Student,5,0,8.25,5,0,'7-8 hours',Moderate,MCA,Yes,6,4,No,1
+Female,29,Kolkata,Student,4,0,9.74,1,0,'7-8 hours',Moderate,B.Pharm,Yes,10,1,No,1
+Male,18,Patna,Student,3,0,5.16,4,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,3,2,Yes,1
+Male,33,Patna,Student,5,0,9.96,1,0,'Less than 5 hours',Moderate,B.Ed,No,12,1,No,1
+Male,28,Kolkata,Student,3,0,5.16,4,0,'5-6 hours',Moderate,M.Pharm,Yes,11,1,No,1
+Male,25,Patna,Student,4,0,8.17,2,0,'5-6 hours',Moderate,B.Pharm,Yes,12,5,No,1
+Female,20,Kolkata,Student,5,0,5.76,1,0,'Less than 5 hours',Healthy,'Class 12',Yes,2,1,No,1
+Male,23,Kolkata,Student,3,0,7.25,1,0,'7-8 hours',Unhealthy,BSc,Yes,8,5,Yes,1
+Female,32,Patna,Student,4,0,5.08,2,0,'7-8 hours',Moderate,B.Tech,No,5,4,Yes,1
+Male,20,Kolkata,Student,3,0,8.96,5,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,8,4,Yes,1
+Male,25,Patna,Student,5,0,9.42,5,0,'5-6 hours',Moderate,LLB,No,11,4,No,1
+Female,26,Patna,Student,5,0,8.16,1,0,'Less than 5 hours',Moderate,MBA,No,6,3,No,1
+Male,24,Kolkata,Student,3,0,5.27,1,0,'More than 8 hours',Unhealthy,B.Ed,Yes,11,5,Yes,1
+Male,29,Patna,Student,3,0,9.44,4,0,'5-6 hours',Unhealthy,LLM,No,11,2,No,1
+Male,29,Kolkata,Student,4,0,7.25,3,0,'5-6 hours',Unhealthy,BBA,Yes,11,5,Yes,1
+Male,34,Kolkata,Student,5,0,7.51,1,0,'7-8 hours',Unhealthy,MSc,Yes,11,3,No,1
+Male,24,Patna,Student,4,0,9.86,2,0,'Less than 5 hours',Unhealthy,MBBS,No,12,5,No,1
+Female,26,Patna,Student,5,0,5.64,2,0,'More than 8 hours',Moderate,B.Ed,Yes,6,3,Yes,1
+Male,23,Kolkata,Student,3,0,7.25,2,0,'7-8 hours',Unhealthy,MSc,Yes,10,4,No,1
+Male,19,Kolkata,Student,1,0,9.39,2,0,'5-6 hours',Moderate,'Class 12',Yes,11,4,Yes,1
+Female,32,Patna,Student,3,0,7.79,2,0,'5-6 hours',Unhealthy,LLB,Yes,8,4,No,1
+Female,33,Kolkata,Student,2,0,7.53,5,0,'More than 8 hours',Moderate,M.Pharm,Yes,0,4,No,1
+Female,19,Kolkata,Student,4,0,5.6,5,0,'7-8 hours',Moderate,'Class 12',Yes,11,2,No,1
+Female,28,Kolkata,Student,3,0,5.27,4,0,'7-8 hours',Unhealthy,BA,Yes,10,4,Yes,1
+Male,33,Patna,Student,4,0,8.91,3,0,'7-8 hours',Moderate,B.Ed,Yes,10,3,No,1
+Male,33,Patna,Student,4,0,8.74,3,0,'Less than 5 hours',Unhealthy,B.Ed,Yes,10,3,No,1
+Male,27,Kolkata,Student,5,0,5.6,1,0,'Less than 5 hours',Moderate,MSc,No,10,5,Yes,1
+Female,24,Kolkata,Student,3,0,7.52,1,0,'5-6 hours',Healthy,LLB,Yes,6,3,No,1
+Male,28,Kolkata,Student,4,0,8.69,4,0,'Less than 5 hours',Unhealthy,M.Pharm,Yes,7,4,No,1
+Male,19,Kolkata,Student,5,0,6.61,4,0,'7-8 hours',Unhealthy,'Class 12',Yes,5,4,No,1
+Male,28,Kolkata,Student,4,0,8.44,3,0,'5-6 hours',Moderate,M.Pharm,Yes,11,3,Yes,1
+Male,31,Patna,Student,4,0,5.39,3,0,'Less than 5 hours',Moderate,MA,Yes,10,4,No,1
+Male,34,Kolkata,Student,1,0,7.88,1,0,'7-8 hours',Unhealthy,MSc,Yes,10,5,No,1
+Female,29,Kolkata,Student,5,0,7.77,4,0,'5-6 hours',Unhealthy,B.Com,Yes,4,3,Yes,1
+Male,31,Kolkata,Student,4,0,7.1,5,0,'Less than 5 hours',Moderate,LLB,Yes,10,5,No,1
+Female,25,Kolkata,Student,1,0,5.91,1,0,'More than 8 hours',Unhealthy,B.Arch,Yes,12,3,Yes,1
+Female,24,Kolkata,Student,2,0,9.44,4,0,'Less than 5 hours',Moderate,BSc,Yes,10,4,Yes,1
+Male,20,Kolkata,Student,2,0,9.26,1,0,'Less than 5 hours',Healthy,'Class 12',Yes,7,4,Yes,1
+Male,24,Kolkata,Student,4,0,8.95,3,0,'7-8 hours',Moderate,BHM,Yes,12,1,Yes,1
+Female,23,Kolkata,Student,3,0,9.74,1,0,'5-6 hours',Unhealthy,MA,Yes,8,4,No,1
+Female,28,Patna,Student,5,0,5.75,3,0,'More than 8 hours',Moderate,MBBS,Yes,10,5,Yes,1
+Female,29,Kolkata,Student,4,0,8.95,1,0,'7-8 hours',Healthy,MBBS,Yes,5,4,Yes,1
+Female,19,Kolkata,Student,2,0,9.6,2,0,'Less than 5 hours',Moderate,'Class 12',No,12,3,No,1
+Female,22,Patna,Student,3,0,8.46,4,0,'5-6 hours',Moderate,B.Arch,Yes,6,3,No,1
+Female,29,Kolkata,Student,3,0,8.95,4,0,'7-8 hours',Moderate,MBBS,Yes,0,2,No,1
+Female,28,Kolkata,Student,3,0,8.08,1,0,'Less than 5 hours',Unhealthy,BHM,Yes,7,1,Yes,1
+Male,33,Patna,Student,2,0,8.74,5,0,'Less than 5 hours',Moderate,M.Tech,Yes,4,4,No,1
+Male,24,Kolkata,Student,3,0,6.99,3,0,'7-8 hours',Healthy,BCA,Yes,12,4,Yes,1
+Female,25,Patna,Student,5,0,9.91,3,0,'Less than 5 hours',Unhealthy,B.Arch,Yes,9,3,No,1
+Male,19,Kolkata,Student,5,0,5.65,1,0,'7-8 hours',Unhealthy,'Class 12',Yes,8,5,Yes,1
+Male,18,Kolkata,Student,5,0,5.82,3,0,'Less than 5 hours',Moderate,'Class 12',Yes,6,2,Yes,1
+Male,30,Kolkata,Student,3,0,8.74,2,0,'More than 8 hours',Unhealthy,LLB,No,6,5,No,1
+Male,28,Kolkata,Student,3,0,9.39,2,0,'More than 8 hours',Moderate,LLB,No,10,2,No,1
+Male,30,Patna,Student,3,0,7.1,2,0,'5-6 hours',Moderate,MSc,Yes,8,3,Yes,1
+Male,30,Patna,Student,2,0,9.42,3,0,'5-6 hours',Unhealthy,M.Ed,No,6,5,No,1
+Male,18,Kolkata,Student,4,0,8.63,5,0,'5-6 hours',Unhealthy,'Class 12',Yes,2,4,No,1
+Male,24,Kolkata,Student,4,0,9.21,2,0,'Less than 5 hours',Moderate,MBA,Yes,8,2,No,1
+Male,18,Kolkata,Student,5,0,5.86,1,0,'7-8 hours',Moderate,'Class 12',No,8,1,No,1
+Male,33,Kolkata,Student,2,0,7.38,4,0,'More than 8 hours',Moderate,M.Pharm,Yes,12,3,Yes,1
+Male,25,Patna,Student,3,0,8.24,3,0,'More than 8 hours',Healthy,MA,Yes,6,5,Yes,1
+Female,28,Kolkata,Student,5,0,8.69,2,0,'7-8 hours',Unhealthy,BSc,Yes,10,5,Yes,1
+Male,31,Patna,Student,1,0,9.34,1,0,'Less than 5 hours',Unhealthy,M.Tech,Yes,12,1,No,1
+Male,21,Patna,Student,4,0,8.96,3,0,'More than 8 hours',Healthy,BBA,No,9,5,No,1
+Male,23,Kolkata,Student,5,0,6.03,2,0,'Less than 5 hours',Moderate,B.Tech,Yes,0,2,Yes,1
+Male,30,Patna,Student,3,0,9.94,1,0,'More than 8 hours',Moderate,BCA,No,3,5,Yes,1
+Female,24,Patna,Student,5,0,7.1,2,0,'7-8 hours',Healthy,MSc,No,8,4,Yes,1
+Female,18,Patna,Student,5,0,5.56,4,0,'More than 8 hours',Unhealthy,'Class 12',Yes,4,5,Yes,1
+Female,27,Patna,Student,5,0,5.67,2,0,'Less than 5 hours',Moderate,MSc,Yes,10,5,No,1
+Male,32,Patna,Student,3,0,5.74,3,0,'Less than 5 hours',Moderate,MBBS,Yes,8,5,Yes,1
+Female,18,Kolkata,Student,4,0,8.28,3,0,'7-8 hours',Unhealthy,'Class 12',No,11,1,No,1
+Female,28,Kolkata,Student,3,0,7.5,5,0,'5-6 hours',Unhealthy,BE,Yes,11,4,Yes,1
+Female,23,Kolkata,Student,5,0,5.1,5,0,'More than 8 hours',Moderate,BA,Yes,5,3,No,1
+Female,28,Patna,Student,5,0,5.6,3,0,'5-6 hours',Moderate,B.Arch,No,6,4,No,1
+Male,29,Patna,Student,5,0,8.96,1,0,'Less than 5 hours',Moderate,MBBS,Yes,11,5,Yes,1
+Female,29,Patna,Student,4,0,8.47,2,0,'Less than 5 hours',Unhealthy,M.Com,Yes,0,4,No,1
+Male,29,Kolkata,Student,4,0,7.13,5,0,'Less than 5 hours',Moderate,LLM,Yes,5,2,No,1
+Male,32,Patna,Student,4,0,8.17,4,0,'Less than 5 hours',Moderate,MCA,Yes,12,5,No,1
+Male,30,Patna,Student,2,0,8.73,5,0,'5-6 hours',Moderate,M.Com,Yes,12,3,No,1
+Male,29,Kolkata,Student,2,0,9.42,1,0,'5-6 hours',Moderate,M.Pharm,Yes,12,3,No,1
+Female,18,Patna,Student,5,0,8.95,1,0,'5-6 hours',Unhealthy,'Class 12',Yes,6,4,Yes,1
+Male,21,Patna,Student,5,0,8.17,2,0,'5-6 hours',Unhealthy,B.Pharm,Yes,8,5,No,1
+Male,27,Patna,Student,5,0,8.95,1,0,'More than 8 hours',Unhealthy,B.Com,Yes,4,5,No,1
+Female,34,Patna,Student,3,0,6.81,3,0,'Less than 5 hours',Healthy,BBA,Yes,9,4,Yes,1
+Male,25,Patna,Student,3,0,8.74,1,0,'7-8 hours',Unhealthy,B.Ed,Yes,3,5,No,1
+Male,26,Patna,Student,3,0,9.47,3,0,'7-8 hours',Unhealthy,PhD,Yes,5,2,No,1
+Male,31,Kolkata,Student,3,0,8.96,3,0,'7-8 hours',Unhealthy,LLM,No,12,5,Yes,1
+Male,33,Kolkata,Student,5,0,9.4,1,0,'5-6 hours',Unhealthy,B.Tech,Yes,3,4,Yes,1
+Male,18,Kolkata,Student,5,0,6.16,5,0,'Less than 5 hours',Healthy,'Class 12',Yes,7,2,No,1
+Female,27,Patna,Student,4,0,7.77,2,0,'More than 8 hours',Unhealthy,MBA,Yes,11,2,No,1
+Female,23,Kolkata,Student,5,0,6.03,1,0,'More than 8 hours',Unhealthy,B.Arch,Yes,0,5,Yes,1
+Male,29,Patna,Student,3,0,7.08,4,0,'5-6 hours',Moderate,M.Pharm,Yes,10,2,No,1
+Male,23,Kolkata,Student,3,0,7.64,1,0,'Less than 5 hours',Healthy,MSc,No,6,5,Yes,1
+Female,28,Kolkata,Student,3,0,8.9,4,0,'Less than 5 hours',Healthy,MSc,Yes,5,3,Yes,1
+Female,26,Patna,Student,3,0,9.97,2,0,'Less than 5 hours',Unhealthy,BE,Yes,12,2,Yes,1
+Female,28,Patna,Student,3,0,9.46,4,0,'Less than 5 hours',Moderate,B.Ed,Yes,7,4,No,1
+Male,21,Patna,Student,5,0,6.21,1,0,'7-8 hours',Unhealthy,BSc,Yes,7,3,No,1
+Female,31,Patna,Student,3,0,7.1,4,0,'Less than 5 hours',Unhealthy,BHM,Yes,1,2,Yes,1
+Female,18,Kolkata,Student,4,0,7.21,1,0,'5-6 hours',Unhealthy,'Class 12',Yes,7,3,No,1
+Male,31,Kolkata,Student,2,0,8.74,5,0,'Less than 5 hours',Unhealthy,BBA,No,10,2,No,1
+Male,31,Patna,Student,2,0,9.36,4,0,'7-8 hours',Unhealthy,M.Ed,Yes,10,5,No,1
+Female,22,Kolkata,Student,3,0,5.9,1,0,'Less than 5 hours',Healthy,BBA,Yes,2,4,Yes,1
+Female,29,Patna,Student,3,0,9.96,3,0,'Less than 5 hours',Moderate,LLB,Yes,12,3,Yes,1
+Female,20,Patna,Student,4,0,8.91,1,0,'Less than 5 hours',Unhealthy,'Class 12',No,2,1,Yes,1
+Male,32,Kolkata,Student,5,0,7.15,3,0,'Less than 5 hours',Moderate,MSc,Yes,11,5,Yes,1
+Female,29,Kolkata,Student,2,0,9.82,1,0,'5-6 hours',Healthy,BE,No,6,1,Yes,1
+Male,24,Patna,Student,4,0,9.74,1,0,'5-6 hours',Moderate,MCA,Yes,12,2,No,1
+Male,32,Kolkata,Student,5,0,6.04,3,0,'5-6 hours',Moderate,PhD,Yes,4,3,Yes,1
+Male,19,Kolkata,Student,5,0,6.52,2,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,12,4,Yes,1
+Female,22,Kolkata,Student,1,0,9.79,2,0,'Less than 5 hours',Unhealthy,BHM,Yes,5,4,Yes,1
+Male,26,Patna,Student,3,0,8.97,1,0,'Less than 5 hours',Moderate,B.Pharm,Yes,1,4,No,1
+Male,26,Patna,Student,3,0,5.16,4,0,'Less than 5 hours',Unhealthy,BE,No,0,5,No,1
+Male,20,Kolkata,Student,5,0,6.16,2,0,'7-8 hours',Unhealthy,'Class 12',Yes,10,3,No,1
+Male,27,Kolkata,Student,2,0,9.41,5,0,'7-8 hours',Unhealthy,LLB,Yes,12,5,Yes,1
+Female,28,Patna,Student,5,0,8.7,4,0,'5-6 hours',Unhealthy,B.Arch,Yes,11,5,Yes,1
+Female,24,Patna,Student,5,0,7.09,5,0,'More than 8 hours',Healthy,BSc,Yes,8,3,No,1
+Male,29,Kolkata,Student,5,0,9.63,1,0,'Less than 5 hours',Unhealthy,M.Com,Yes,6,2,Yes,1
+Female,29,Kolkata,Student,4,0,9.96,2,0,'5-6 hours',Unhealthy,LLM,No,0,2,Yes,1
+Male,19,Kolkata,Student,3,0,9.72,5,0,'Less than 5 hours',Moderate,'Class 12',Yes,12,1,Yes,1
+Male,26,Patna,Student,5,0,7.68,3,0,'Less than 5 hours',Moderate,'Class 12',No,9,2,No,1
+Male,31,Patna,Student,5,0,5.11,3,0,'More than 8 hours',Moderate,LLM,Yes,10,5,No,1
+Male,31,Patna,Student,5,0,5.72,1,0,'More than 8 hours',Moderate,'Class 12',No,10,4,No,1
+Male,19,Patna,Student,1,0,6.73,2,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,12,3,Yes,1
+Female,23,Patna,Student,5,0,5.99,3,0,'7-8 hours',Unhealthy,B.Pharm,Yes,2,4,No,1
+Male,31,Kolkata,Student,5,0,8.79,4,0,'7-8 hours',Healthy,B.Com,No,2,2,Yes,1
+Female,21,Patna,Student,3,0,5.83,1,0,'Less than 5 hours',Moderate,BCA,Yes,11,4,Yes,1
+Male,23,Kolkata,Student,2,0,7.72,1,0,'More than 8 hours',Moderate,B.Tech,Yes,9,5,Yes,1
+Female,22,Patna,Student,5,0,8.04,2,0,'More than 8 hours',Unhealthy,B.Com,Yes,10,5,Yes,1
+Male,28,Patna,Student,4,0,6.37,4,0,'7-8 hours',Unhealthy,B.Com,Yes,7,5,No,1
+Female,27,Kolkata,Student,5,0,9.72,1,0,'Less than 5 hours',Unhealthy,M.Tech,Yes,12,3,Yes,1
+Male,23,Kolkata,Student,4,0,9.19,3,0,'5-6 hours',Unhealthy,B.Tech,Yes,7,3,Yes,1
+Male,20,Patna,Student,5,0,7.77,1,0,'5-6 hours',Unhealthy,'Class 12',Yes,11,1,Yes,1
+Male,27,Kolkata,Student,4,0,8.96,4,0,'More than 8 hours',Unhealthy,B.Tech,No,4,4,No,1
+Male,28,Kolkata,Student,5,0,8.95,2,0,'More than 8 hours',Unhealthy,M.Tech,Yes,10,5,Yes,1
+Female,29,Patna,Student,5,0,5.55,2,0,'5-6 hours',Healthy,MBBS,No,5,1,Yes,1
+Male,29,Kolkata,Student,3,0,7.88,1,0,'Less than 5 hours',Moderate,LLM,Yes,2,1,No,1
+Male,25,Patna,Student,3,0,6.38,3,0,'5-6 hours',Unhealthy,M.Pharm,Yes,10,5,No,1
+Female,31,Kolkata,Student,5,0,5.83,1,0,'5-6 hours',Moderate,BHM,No,11,1,Yes,1
+Male,23,Kolkata,Student,5,0,9.89,3,0,'Less than 5 hours',Moderate,B.Com,Yes,6,5,No,1
+Male,30,Kolkata,Student,3,0,8.91,1,0,'7-8 hours',Unhealthy,MBBS,Yes,12,1,Yes,1
+Male,20,Kolkata,Student,4,0,8.42,3,0,'Less than 5 hours',Moderate,'Class 12',Yes,6,3,Yes,1
+Male,24,Patna,Student,3,0,9.89,3,0,'More than 8 hours',Healthy,BSc,Yes,10,4,No,1
+Male,19,Kolkata,Student,4,0,8.62,2,0,'5-6 hours',Moderate,'Class 12',Yes,11,4,No,1
+Female,18,Patna,Student,3,0,9.96,5,0,'7-8 hours',Healthy,'Class 12',Yes,2,4,Yes,1
+Female,34,Kolkata,Student,3,0,9.74,2,0,'More than 8 hours',Healthy,MBBS,Yes,12,2,Yes,1
+Male,21,Kolkata,Student,5,0,7.21,3,0,'7-8 hours',Healthy,'Class 12',Yes,5,2,No,1
+Male,33,Kolkata,Student,4,0,7.51,4,0,'Less than 5 hours',Moderate,MSc,Yes,7,5,Yes,1
+Male,24,Kolkata,Student,3,0,9.79,2,0,'More than 8 hours',Unhealthy,BSc,Yes,10,5,No,1
+Female,24,Patna,Student,4,0,6.75,1,0,'Less than 5 hours',Moderate,MBBS,Yes,8,5,Yes,1
+Female,25,Patna,Student,3,0,6.88,4,0,'7-8 hours',Unhealthy,B.Pharm,Yes,1,5,Yes,1
+Male,18,Kolkata,Student,4,0,8.19,1,0,'5-6 hours',Healthy,'Class 12',Yes,12,1,No,1
+Male,23,Kolkata,Student,5,0,8.91,1,0,'Less than 5 hours',Unhealthy,M.Com,Yes,6,4,No,1
+Female,29,Kolkata,Student,1,0,8.95,1,0,'More than 8 hours',Moderate,MBBS,Yes,10,3,Yes,1
+Female,25,Patna,Student,5,0,8.96,1,0,'More than 8 hours',Moderate,B.Arch,Yes,12,3,No,1
+Male,33,Kolkata,Student,3,0,9.97,3,0,'7-8 hours',Unhealthy,M.Tech,No,1,2,Yes,1
+Male,24,Kolkata,Student,2,0,6.03,2,0,'7-8 hours',Unhealthy,M.Tech,Yes,12,5,Yes,1
+Male,29,Patna,Student,5,0,6.38,2,0,'5-6 hours',Unhealthy,B.Pharm,Yes,3,5,No,1
+Male,30,Kolkata,Student,5,0,5.88,3,0,'7-8 hours',Unhealthy,LLB,Yes,1,3,No,1
+Male,33,Patna,Student,4,0,8.14,1,0,'Less than 5 hours',Moderate,'Class 12',Yes,12,3,No,1
+Female,24,Kolkata,Student,2,0,10,5,0,'Less than 5 hours',Moderate,B.Ed,Yes,8,2,No,1
+Male,30,Kolkata,Student,5,0,5.59,1,0,'Less than 5 hours',Unhealthy,BSc,Yes,2,1,Yes,1
+Male,24,Kolkata,Student,3,0,9.44,5,0,'7-8 hours',Unhealthy,B.Ed,Yes,11,5,No,1
+Male,19,Kolkata,Student,5,0,9.34,4,0,'7-8 hours',Healthy,'Class 12',Yes,6,2,No,1
+Male,23,Kolkata,Student,3,0,7.45,2,0,'7-8 hours',Moderate,BSc,Yes,8,3,No,1
+Female,27,Kolkata,Student,4,0,9.25,2,0,'5-6 hours',Moderate,LLM,Yes,10,3,No,1
+Male,32,Patna,Student,5,0,5.48,1,0,'5-6 hours',Moderate,M.Ed,Yes,12,4,Yes,1
+Female,18,Kolkata,Student,5,0,5.42,5,0,'Less than 5 hours',Moderate,'Class 12',Yes,11,5,No,1
+Male,22,Patna,Student,4,0,7.88,1,0,'7-8 hours',Moderate,MA,No,11,5,No,1
+Female,18,Kolkata,Student,3,0,6.37,4,0,'More than 8 hours',Healthy,'Class 12',Yes,9,5,No,1
+Female,32,Kolkata,Student,3,0,7.25,5,0,'Less than 5 hours',Moderate,LLM,Yes,12,5,Yes,1
+Male,21,Kolkata,Student,5,0,5.85,3,0,'7-8 hours',Unhealthy,MSc,Yes,7,1,No,1
+Female,26,Patna,Student,1,0,7.03,2,0,'More than 8 hours',Unhealthy,MBBS,No,1,4,No,1
+Male,30,Patna,Student,4,0,6.47,3,0,'7-8 hours',Healthy,BHM,Yes,11,3,Yes,1
+Male,22,Kolkata,Student,3,0,8.78,2,0,'5-6 hours',Moderate,B.Com,Yes,9,5,Yes,1
+Female,29,Kolkata,Student,4,0,8.95,5,0,'5-6 hours',Unhealthy,BCA,Yes,6,1,Yes,1
+Female,30,Kolkata,Student,5,0,8.58,5,0,'Less than 5 hours',Healthy,BA,Yes,3,5,No,1
+Male,19,Kolkata,Student,4,0,9.88,3,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,2,4,No,1
+Male,28,Kolkata,Student,2,0,5.74,1,0,'Less than 5 hours',Moderate,B.Com,Yes,2,5,No,1
+Female,26,Patna,Student,5,0,10,1,0,'More than 8 hours',Unhealthy,B.Pharm,Yes,6,5,Yes,1
+Female,27,Kolkata,Student,4,0,8.63,5,0,'5-6 hours',Unhealthy,MCA,Yes,7,2,No,1
+Male,19,Kolkata,Student,4,0,8.04,5,0,'7-8 hours',Moderate,'Class 12',Yes,11,3,Yes,1
+Female,20,Kolkata,Student,3,0,8.91,1,0,'7-8 hours',Moderate,'Class 12',Yes,11,5,No,1
+Male,20,Patna,Student,5,0,8.94,4,0,'Less than 5 hours',Moderate,'Class 12',No,10,2,No,1
+Male,30,Patna,Student,3,0,5.83,4,0,'Less than 5 hours',Moderate,M.Pharm,Yes,9,4,Yes,1
+Male,19,Kolkata,Student,4,0,8.81,1,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,10,2,Yes,1
+Male,25,Patna,Student,4,0,9.21,3,0,'7-8 hours',Unhealthy,B.Ed,No,6,2,No,1
+Female,21,Patna,Student,5,0,9.86,2,0,'Less than 5 hours',Unhealthy,'Class 12',No,6,5,No,1
+Male,38,Patna,Student,5,0,5.74,1,0,'5-6 hours',Healthy,MBBS,No,8,3,Yes,1
+Male,32,Patna,Student,2,0,8.54,2,0,'Less than 5 hours',Unhealthy,MD,Yes,11,5,Yes,1
+Male,20,Kolkata,Student,1,0,9.79,3,0,'More than 8 hours',Unhealthy,'Class 12',Yes,8,5,Yes,1
+Male,20,Kolkata,Student,4,0,8.37,3,0,'Less than 5 hours',Healthy,'Class 12',Yes,8,1,No,1
+Male,26,Patna,Student,5,0,8.47,2,0,'Less than 5 hours',Moderate,B.Pharm,No,12,5,No,1
+Male,25,Patna,Student,3,0,7.49,5,0,'Less than 5 hours',Healthy,B.Tech,Yes,10,1,No,1
+Male,33,Patna,Student,5,0,9.21,1,0,'Less than 5 hours',Unhealthy,B.Ed,Yes,10,5,Yes,1
+Female,28,Patna,Student,3,0,8.21,5,0,'Less than 5 hours',Moderate,BE,Yes,5,4,Yes,1
+Female,24,Kolkata,Student,4,0,5.68,1,0,'More than 8 hours',Moderate,B.Arch,Yes,3,5,No,1
+Male,27,Kolkata,Student,4,0,5.52,3,0,'7-8 hours',Unhealthy,BSc,Yes,7,5,Yes,1
+Male,33,Patna,Student,2,0,7.88,4,0,'7-8 hours',Unhealthy,MCA,No,11,4,Yes,1
+Male,18,Patna,Student,4,0,5.16,4,0,'Less than 5 hours',Unhealthy,'Class 12',No,8,5,No,1
+Female,28,Patna,Student,4,0,8.59,1,0,'5-6 hours',Moderate,B.Ed,No,12,3,Yes,1
+Male,18,Patna,Student,5,0,7.04,2,0,'More than 8 hours',Healthy,'Class 12',Yes,12,1,Yes,1
+Female,27,Patna,Student,5,0,8.92,3,0,'More than 8 hours',Moderate,B.Pharm,No,5,3,No,1
+Male,32,Kolkata,Student,5,0,7.77,2,0,'More than 8 hours',Moderate,B.Tech,Yes,12,2,No,1
+Male,20,Kolkata,Student,5,0,7.88,1,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,7,5,No,1
+Male,34,Kolkata,Student,3,0,5.56,4,0,'Less than 5 hours',Unhealthy,B.Tech,Yes,9,5,No,1
+Male,30,Patna,Student,3,0,7.39,1,0,'More than 8 hours',Moderate,BCA,Yes,9,5,No,1
+Female,27,Patna,Student,3,0,6.89,3,0,'5-6 hours',Unhealthy,BSc,Yes,3,5,Yes,1
+Male,31,Kolkata,Student,5,0,6.28,1,0,'More than 8 hours',Unhealthy,B.Tech,No,6,2,No,1
+Male,18,Kolkata,Student,3,0,8.81,1,0,'7-8 hours',Moderate,'Class 12',Yes,12,5,Yes,1
+Male,24,Patna,Student,5,0,8.04,4,0,'5-6 hours',Healthy,B.Tech,Yes,12,4,No,1
+Female,33,Kolkata,Student,5,0,8.94,1,0,'5-6 hours',Healthy,ME,Yes,9,4,Yes,1
+Male,28,Patna,Student,2,0,9.84,2,0,'7-8 hours',Unhealthy,M.Ed,Yes,12,4,No,1
+Male,27,Patna,Student,3,0,9.96,1,0,'7-8 hours',Unhealthy,B.Ed,Yes,7,5,Yes,1
+Male,34,Kolkata,Student,4,0,5.32,3,0,'Less than 5 hours',Healthy,M.Com,Yes,8,4,Yes,1
+Female,25,Kolkata,Student,5,0,8.17,1,0,'More than 8 hours',Healthy,BBA,No,11,4,Yes,1
+Male,19,Patna,Student,5,0,7.04,1,0,'More than 8 hours',Unhealthy,'Class 12',Yes,7,4,No,1
+Female,33,Kolkata,Student,4,0,8.04,5,0,'Less than 5 hours',Unhealthy,PhD,Yes,12,4,No,1
+Female,25,Kolkata,Student,4,0,5.64,4,0,'7-8 hours',Unhealthy,M.Pharm,Yes,6,1,No,1
+Male,28,Kolkata,Student,3,0,7.13,2,0,'More than 8 hours',Unhealthy,B.Tech,Yes,12,1,Yes,1
+Female,29,Kolkata,Student,5,0,8.74,4,0,'Less than 5 hours',Healthy,BE,No,6,2,No,1
+Male,24,Patna,Student,5,0,8.44,5,0,'Less than 5 hours',Unhealthy,BA,Yes,11,1,Yes,1
+Male,33,Patna,Student,4,0,9.94,1,0,'5-6 hours',Moderate,MSc,Yes,10,5,No,1
+Female,19,Patna,Student,3,0,8.04,2,0,'Less than 5 hours',Moderate,'Class 12',Yes,3,1,Yes,1
+Male,25,Patna,Student,4,0,9.93,1,0,'7-8 hours',Unhealthy,M.Ed,Yes,8,2,Yes,1
+Male,32,Kolkata,Student,4,0,9.96,4,0,'Less than 5 hours',Unhealthy,B.Arch,Yes,7,3,Yes,1
+Female,20,Patna,Student,5,0,7.48,4,0,'5-6 hours',Moderate,'Class 12',Yes,11,1,Yes,1
+Female,32,Patna,Student,3,0,9.63,4,0,'7-8 hours',Healthy,LLB,Yes,12,1,No,1
+Female,33,Kolkata,Student,4,0,9.96,2,0,'More than 8 hours',Unhealthy,LLB,Yes,12,5,Yes,1
+Male,22,Kolkata,Student,2,0,8.04,4,0,'5-6 hours',Moderate,B.Ed,Yes,11,4,No,1
+Female,19,Kolkata,Student,3,0,5.66,2,0,'5-6 hours',Unhealthy,'Class 12',Yes,6,5,Yes,1
+Male,20,Kolkata,Student,4,0,6.63,1,0,'More than 8 hours',Healthy,'Class 12',Yes,3,2,No,1
+Female,28,Kolkata,Student,4,0,7.9,4,0,'5-6 hours',Moderate,B.Ed,Yes,6,2,Yes,1
+Male,18,Kolkata,Student,4,0,7.99,3,0,'5-6 hours',Unhealthy,'Class 12',Yes,10,5,No,1
+Male,18,Kolkata,Student,5,0,9.98,1,0,'5-6 hours',Moderate,'Class 12',Yes,12,5,Yes,1
+Male,25,Patna,Student,4,0,8.74,1,0,'7-8 hours',Unhealthy,B.Ed,Yes,12,4,Yes,1
+Male,29,Patna,Student,4,0,7.88,2,0,'5-6 hours',Moderate,PhD,Yes,11,3,No,1
+Female,28,Patna,Student,5,0,9.88,2,0,'Less than 5 hours',Moderate,B.Ed,Yes,5,5,No,1
+Male,26,Patna,Student,5,0,5.74,2,0,'Less than 5 hours',Unhealthy,M.Ed,Yes,10,5,No,1
+Female,25,Kolkata,Student,3,0,6.99,3,0,'7-8 hours',Unhealthy,LLM,Yes,11,5,No,1
+Female,33,Patna,Student,3,0,5.16,5,0,'5-6 hours',Moderate,B.Ed,Yes,7,5,Yes,1
+Male,25,Patna,Student,3,0,8.37,3,0,'Less than 5 hours',Unhealthy,B.Com,Yes,11,3,Yes,1
+Male,19,Kolkata,Student,3,0,9.21,1,0,'Less than 5 hours',Healthy,'Class 12',Yes,12,5,No,1
+Female,19,Kolkata,Student,5,0,9.19,3,0,'5-6 hours',Unhealthy,'Class 12',Yes,11,2,No,1
+Male,34,Kolkata,Student,3,0,7.51,2,0,'More than 8 hours',Unhealthy,MSc,Yes,5,5,No,1
+Male,30,Patna,Student,3,0,9.54,2,0,'7-8 hours',Healthy,BSc,Yes,11,5,Yes,1
+Female,29,Patna,Student,5,0,5.64,5,0,'7-8 hours',Unhealthy,B.Arch,Yes,2,1,Yes,1
+Female,29,Kolkata,Student,5,0,8.63,2,0,'Less than 5 hours',Unhealthy,BCA,Yes,7,5,Yes,1
+Female,26,Patna,Student,4,0,8.17,1,0,'More than 8 hours',Unhealthy,B.Pharm,No,5,5,No,1
+Female,30,Kolkata,Student,4,0,8.74,3,0,'Less than 5 hours',Unhealthy,MSc,No,6,2,Yes,1
+Male,29,Kolkata,Student,4,0,6.88,5,0,'Less than 5 hours',Unhealthy,B.Com,Yes,10,4,Yes,1
+Female,24,Kolkata,Student,4,0,5.64,3,0,'7-8 hours',Unhealthy,B.Arch,Yes,11,3,No,1
+Male,25,Patna,Student,3,0,9.72,1,0,'7-8 hours',Healthy,M.Pharm,Yes,12,2,Yes,1
+Female,31,Patna,Student,2,0,6.17,2,0,'More than 8 hours',Unhealthy,M.Com,Yes,8,2,Yes,1
+Male,29,Kolkata,Student,3,0,5.55,4,0,'Less than 5 hours',Moderate,PhD,Yes,8,5,No,1
+Female,20,Patna,Student,4,0,8.17,3,0,'More than 8 hours',Moderate,'Class 12',Yes,12,3,Yes,1
+Male,22,Patna,Student,5,0,8.42,1,0,'Less than 5 hours',Unhealthy,B.Com,Yes,7,5,No,1
+Male,21,Patna,Student,1,0,7.91,1,0,'7-8 hours',Healthy,B.Tech,Yes,6,5,Yes,1
+Male,26,Patna,Student,4,0,6.1,2,0,'Less than 5 hours',Moderate,B.Arch,No,3,1,Yes,1
+Female,34,Kolkata,Student,3,0,9.04,3,0,'More than 8 hours',Moderate,BHM,No,10,1,Yes,1
+Male,25,Kolkata,Student,4,0,9.46,1,0,'More than 8 hours',Healthy,BSc,Yes,12,5,No,1
+Male,18,Kolkata,Student,3,0,9.11,3,0,'More than 8 hours',Moderate,B.Tech,No,3,1,Yes,1
+Male,29,Kolkata,Student,4,0,5.37,3,0,'7-8 hours',Unhealthy,BBA,Yes,12,1,Yes,1
+Male,31,Patna,Student,3,0,8.9,1,0,'7-8 hours',Moderate,MBBS,Yes,10,3,Yes,1
+Male,24,Patna,Student,5,0,5.79,1,0,'5-6 hours',Healthy,B.Ed,Yes,6,5,No,1
+Female,25,Patna,Student,5,0,10,3,0,'5-6 hours',Healthy,LLM,No,3,4,Yes,1
+Female,29,Kolkata,Student,4,0,8.24,1,0,'Less than 5 hours',Moderate,BHM,Yes,5,5,No,1
+Male,29,Patna,Student,5,0,5.76,1,0,'More than 8 hours',Healthy,MCA,Yes,7,4,No,1
+Male,34,Kolkata,Student,3,0,7.51,1,0,'5-6 hours',Unhealthy,MSc,Yes,10,5,Yes,1
+Male,34,Kolkata,Student,3,0,9.91,2,0,'7-8 hours',Unhealthy,LLB,Yes,11,5,No,1
+Female,19,Kolkata,Student,3,0,9.96,2,0,'5-6 hours',Unhealthy,'Class 12',Yes,10,1,Yes,1
+Female,20,Patna,Student,3,0,8.38,2,0,'7-8 hours',Moderate,'Class 12',Yes,11,3,Yes,1
+Female,20,Kolkata,Student,4,0,5.91,3,0,'7-8 hours',Healthy,'Class 12',No,6,4,Yes,1
+Male,27,Kolkata,Student,5,0,6.17,1,0,'7-8 hours',Moderate,B.Pharm,No,10,2,No,1
+Female,29,Kolkata,Student,5,0,9.44,1,0,'5-6 hours',Moderate,BCA,Yes,7,1,Yes,1
+Male,32,Kolkata,Student,3,0,6.52,1,0,'Less than 5 hours',Healthy,B.Com,Yes,11,2,No,0
+Male,29,Kolkata,Student,3,0,7.08,4,0,'Less than 5 hours',Moderate,LLB,No,9,2,Yes,0
+Male,33,Kolkata,Student,2,0,9.71,4,0,'7-8 hours',Moderate,MSc,No,10,1,No,0
+Male,34,Patna,Student,2,0,6.81,3,0,'More than 8 hours',Healthy,BSc,No,10,1,No,0
+Female,33,Patna,Student,4,0,5.59,3,0,'More than 8 hours',Moderate,BCA,Yes,11,1,Yes,0
+Male,26,Patna,Student,4,0,5.72,3,0,'More than 8 hours',Unhealthy,'Class 12',No,10,3,No,0
+Male,19,Kolkata,Student,2,0,8,3,0,'Less than 5 hours',Unhealthy,'Class 12',No,1,4,No,0
+Male,33,Patna,Student,5,0,8.95,1,0,'More than 8 hours',Healthy,MBA,No,5,3,Yes,0
+Female,32,Patna,Student,3,0,9.44,4,0,'More than 8 hours',Unhealthy,BCA,No,0,1,No,0
+Female,19,Kolkata,Student,1,0,8.14,5,0,'More than 8 hours',Healthy,'Class 12',No,4,3,No,0
+Female,30,Patna,Student,1,0,9.98,2,0,'5-6 hours',Unhealthy,M.Tech,No,6,2,No,0
+Male,33,Patna,Student,3,0,5.24,4,0,'More than 8 hours',Moderate,BSc,Yes,8,1,Yes,0
+Male,30,Kolkata,Student,5,0,9.93,4,0,'Less than 5 hours',Unhealthy,LLB,No,10,5,No,0
+Female,27,Kolkata,Student,4,0,8.74,4,0,'7-8 hours',Healthy,BA,No,6,1,Yes,0
+Female,27,Kolkata,Student,2,0,9.6,3,0,'More than 8 hours',Moderate,PhD,No,11,2,Yes,0
+Male,33,Kolkata,Student,3,0,5.57,1,0,'7-8 hours',Moderate,MD,No,7,4,Yes,0
+Female,26,Kolkata,Student,3,0,5.76,3,0,'More than 8 hours',Healthy,B.Tech,No,0,3,Yes,0
+Female,29,Patna,Student,1,0,6.47,1,0,'5-6 hours',Healthy,B.Com,Yes,10,1,No,0
+Female,33,Kolkata,Student,1,0,8.54,4,0,'More than 8 hours',Unhealthy,MCA,No,0,2,No,0
+Male,28,Kolkata,Student,1,0,6.1,3,0,'7-8 hours',Moderate,MD,Yes,6,4,No,0
+Male,20,Kolkata,Student,4,0,6.39,2,0,'5-6 hours',Moderate,'Class 12',No,2,1,No,0
+Male,23,Kolkata,Student,1,0,7.64,4,0,'Less than 5 hours',Healthy,MSc,No,0,4,No,0
+Female,33,Kolkata,Student,1,0,7.45,4,0,'More than 8 hours',Moderate,M.Com,No,3,4,No,0
+Male,29,Kolkata,Student,3,0,9.98,3,0,'7-8 hours',Healthy,LLM,No,10,2,Yes,0
+Male,19,Kolkata,Student,2,0,9.56,2,0,'Less than 5 hours',Moderate,'Class 12',Yes,0,2,Yes,0
+Male,33,Patna,Student,3,0,9.19,1,0,'5-6 hours',Unhealthy,BA,No,4,5,Yes,0
+Female,31,Patna,Student,1,0,9.63,1,0,'More than 8 hours',Moderate,BE,No,12,2,Yes,0
+Female,33,Kolkata,Student,3,0,5.46,5,0,'5-6 hours',Healthy,M.Pharm,No,4,4,Yes,0
+Female,26,Kolkata,Student,4,0,8.89,4,0,'Less than 5 hours',Healthy,MBA,No,9,1,No,0
+Male,28,Patna,Student,2,0,7.88,5,0,'7-8 hours',Unhealthy,B.Com,No,12,2,Yes,0
+Female,34,Patna,Student,4,0,9.86,1,0,'Less than 5 hours',Moderate,M.Tech,Yes,3,2,No,0
+Male,19,Kolkata,Student,1,0,7.5,4,0,'More than 8 hours',Unhealthy,'Class 12',No,6,2,No,0
+Female,19,Kolkata,Student,4,0,8.9,2,0,'5-6 hours',Unhealthy,'Class 12',No,7,3,No,0
+Male,28,Kolkata,Student,1,0,6.51,4,0,'More than 8 hours',Unhealthy,B.Tech,No,6,5,Yes,0
+Female,20,Patna,Student,0,0,5.55,0,0,'5-6 hours',Moderate,'Class 12',No,0,3,Yes,0
+Male,23,Patna,Student,3,0,10,4,0,'More than 8 hours',Healthy,BSc,No,1,1,No,0
+Female,29,Kolkata,Student,3,0,8.04,5,0,'More than 8 hours',Moderate,B.Com,Yes,8,2,No,0
+Female,34,Kolkata,Student,3,0,5.68,2,0,'7-8 hours',Healthy,'Class 12',No,6,2,No,0
+Male,25,Kolkata,Student,1,0,7.45,1,0,'More than 8 hours',Healthy,BCA,No,12,1,Yes,0
+Female,34,Kolkata,Student,1,0,8.14,1,0,'Less than 5 hours',Healthy,BHM,No,1,5,No,0
+Female,34,Patna,Student,1,0,8.24,4,0,'Less than 5 hours',Healthy,B.Arch,No,11,1,No,0
+Male,30,Kolkata,Student,1,0,6.99,3,0,'Less than 5 hours',Unhealthy,M.Tech,No,10,2,Yes,0
+Female,18,Kolkata,Student,2,0,8.69,5,0,'Less than 5 hours',Healthy,'Class 12',Yes,6,2,No,0
+Male,34,Patna,Student,2,0,8.47,5,0,'More than 8 hours',Moderate,M.Ed,Yes,1,5,Yes,0
+Male,33,Kolkata,Student,4,0,6.27,4,0,'7-8 hours',Unhealthy,BCA,Yes,0,5,No,0
+Male,29,Patna,Student,3,0,7.77,3,0,'More than 8 hours',Moderate,MCA,No,1,1,Yes,0
+Male,24,Patna,Student,4,0,9.54,5,0,'7-8 hours',Moderate,LLB,Yes,2,1,No,0
+Male,19,Patna,Student,2,0,6.17,4,0,'5-6 hours',Healthy,'Class 12',No,10,1,No,0
+Male,25,Kolkata,Student,2,0,9.44,2,0,'Less than 5 hours',Moderate,B.Pharm,No,0,5,Yes,0
+Male,19,Kolkata,Student,5,0,9.44,2,0,'More than 8 hours',Healthy,'Class 12',No,2,3,No,0
+Female,25,Kolkata,Student,4,0,6,3,0,'5-6 hours',Moderate,B.Arch,No,9,2,Yes,0
+Male,29,Patna,Student,1,0,8.69,1,0,'Less than 5 hours',Moderate,B.Tech,Yes,10,5,Yes,0
+Male,28,Patna,Student,1,0,7.92,3,0,'Less than 5 hours',Unhealthy,B.Ed,No,1,1,No,0
+Female,23,Patna,Student,1,0,8.17,5,0,'7-8 hours',Unhealthy,BCA,Yes,0,5,Yes,0
+Female,24,Patna,Student,1,0,6.75,1,0,'Less than 5 hours',Moderate,BA,No,2,4,Yes,0
+Female,34,Kolkata,Student,2,0,9.93,4,0,'Less than 5 hours',Moderate,PhD,Yes,11,1,No,0
+Male,21,Patna,Student,1,0,8.59,1,0,'7-8 hours',Moderate,B.Arch,No,3,2,Yes,0
+Male,24,Kolkata,Student,5,0,6.63,4,0,'More than 8 hours',Unhealthy,MSc,No,8,4,No,0
+Male,25,Patna,Student,2,0,9.72,3,0,'7-8 hours',Moderate,B.Com,No,9,3,No,0
+Female,24,Patna,Student,1,0,5.77,5,0,'More than 8 hours',Moderate,MCA,No,3,5,No,0
+Female,27,Patna,Student,1,0,9.24,1,0,'Less than 5 hours',Healthy,BSc,Yes,6,2,No,0
+Male,24,Kolkata,Student,2,0,7.92,3,0,'Less than 5 hours',Unhealthy,B.Ed,Yes,4,1,No,0
+Female,32,Kolkata,Student,4,0,9.42,5,0,'7-8 hours',Moderate,LLB,No,2,1,Yes,0
+Male,28,Patna,Student,2,0,8.9,4,0,'More than 8 hours',Healthy,MSc,No,0,1,No,0
+Male,23,Patna,Student,2,0,7.74,2,0,'5-6 hours',Moderate,B.Com,Yes,8,3,Yes,0
+Male,24,Patna,Student,2,0,7.94,3,0,'5-6 hours',Unhealthy,MA,Yes,6,4,Yes,0
+Male,22,Kolkata,Student,2,0,5.69,2,0,'More than 8 hours',Unhealthy,MSc,No,0,2,No,0
+Male,33,Patna,Student,1,0,8.04,4,0,'More than 8 hours',Unhealthy,BSc,Yes,3,1,No,0
+Female,29,Patna,Student,2,0,9.39,3,0,'Less than 5 hours',Moderate,MD,No,0,5,No,0
+Female,22,Patna,Student,2,0,7.74,5,0,'7-8 hours',Unhealthy,BCA,No,9,5,Yes,0
+Male,26,Patna,Student,3,0,8.09,4,0,'Less than 5 hours',Healthy,B.Com,Yes,9,2,No,0
+Male,31,Patna,Student,1,0,5.84,1,0,'5-6 hours',Moderate,ME,No,10,3,Yes,0
+Female,29,Kolkata,Student,1,0,8.95,4,0,'5-6 hours',Moderate,MBBS,No,8,3,No,0
+Male,25,Patna,Student,3,0,8.91,4,0,'Less than 5 hours',Unhealthy,B.Ed,No,10,2,No,0
+Male,33,Patna,Student,2,0,7.82,4,0,'Less than 5 hours',Healthy,M.Ed,No,1,1,Yes,0
+Male,31,Kolkata,Student,2,0,9.92,5,0,'More than 8 hours',Moderate,MD,No,9,5,No,0
+Male,22,Patna,Student,3,0,10,1,0,'7-8 hours',Moderate,BHM,No,4,1,No,0
+Female,32,Kolkata,Student,4,0,8.95,1,0,'More than 8 hours',Moderate,MBBS,No,5,5,No,0
+Female,27,Patna,Student,1,0,6.27,1,0,'More than 8 hours',Moderate,BHM,No,2,5,No,0
+Male,22,Patna,Student,3,0,6.89,5,0,'More than 8 hours',Moderate,MCA,No,5,4,No,0
+Male,26,Patna,Student,3,0,6.19,5,0,'7-8 hours',Healthy,B.Pharm,No,1,1,Yes,0
+Male,19,Patna,Student,2,0,9.41,3,0,'5-6 hours',Moderate,'Class 12',No,7,2,Yes,0
+Female,28,Patna,Student,2,0,5.74,4,0,'7-8 hours',Moderate,B.Ed,No,9,4,No,0
+Male,38,Kolkata,Student,2,0,6.02,5,0,'More than 8 hours',Moderate,B.Arch,No,5,2,No,0
+Female,31,Kolkata,Student,5,0,6.89,5,0,'More than 8 hours',Moderate,LLM,No,3,2,Yes,0
+Female,20,Patna,Student,1,0,9.41,1,0,'Less than 5 hours',Healthy,'Class 12',No,7,1,Yes,0
+Male,23,Patna,Student,3,0,10,1,0,'Less than 5 hours',Healthy,BSc,No,1,3,No,0
+Female,34,Patna,Student,1,0,9.96,1,0,'5-6 hours',Healthy,B.Ed,No,6,2,No,0
+Female,18,Kolkata,Student,3,0,6.28,4,0,'More than 8 hours',Healthy,'Class 12',No,8,2,Yes,0
+Male,31,Kolkata,Student,1,0,9.21,2,0,'5-6 hours',Healthy,B.Ed,No,11,4,No,0
+Female,24,Kolkata,Student,3,0,8.95,5,0,'5-6 hours',Healthy,MSc,Yes,0,5,No,0
+Male,25,Patna,Student,4,0,9.41,3,0,'More than 8 hours',Healthy,B.Ed,Yes,9,5,No,0
+Female,22,Patna,Student,1,0,9.96,4,0,'5-6 hours',Moderate,B.Com,No,8,4,Yes,0
+Male,31,Patna,Student,3,0,7.47,3,0,'Less than 5 hours',Unhealthy,M.Com,Yes,10,2,No,0
+Male,19,Kolkata,Student,1,0,5.6,4,0,'Less than 5 hours',Moderate,'Class 12',Yes,3,3,No,0
+Female,34,Patna,Student,3,0,8.95,1,0,'Less than 5 hours',Healthy,MBBS,No,11,1,Yes,0
+Female,28,Kolkata,Student,1,0,7.38,4,0,'More than 8 hours',Moderate,B.Pharm,No,7,2,Yes,0
+Male,30,Patna,Student,1,0,9.93,4,0,'5-6 hours',Healthy,B.Ed,No,10,1,Yes,0
+Male,29,Kolkata,Student,2,0,6.99,1,0,'5-6 hours',Healthy,B.Com,Yes,12,4,No,0
+Female,28,Kolkata,Student,2,0,5.45,2,0,'7-8 hours',Healthy,M.Tech,No,11,1,No,0
+Male,27,Kolkata,Student,2,0,6.05,4,0,'More than 8 hours',Healthy,BE,No,10,2,No,0
+Female,32,Patna,Student,4,0,9.72,2,0,'Less than 5 hours',Unhealthy,PhD,Yes,2,1,Yes,0
+Male,26,Patna,Student,4,0,8.04,3,0,'Less than 5 hours',Healthy,B.Pharm,No,10,4,No,0
+Male,33,Patna,Student,3,0,8.04,2,0,'7-8 hours',Healthy,B.Pharm,No,12,3,Yes,0
+Male,32,Patna,Student,3,0,8.04,4,0,'More than 8 hours',Unhealthy,B.Ed,No,3,1,Yes,0
+Male,30,Patna,Student,3,0,5.11,4,0,'7-8 hours',Moderate,BCA,No,1,5,No,0
+Female,20,Patna,Student,4,0,6.99,4,0,'5-6 hours',Healthy,'Class 12',Yes,2,2,Yes,0
+Male,31,Kolkata,Student,2,0,7.51,1,0,'5-6 hours',Unhealthy,MSc,No,11,2,No,0
+Female,28,Kolkata,Student,1,0,5.32,3,0,'More than 8 hours',Healthy,M.Tech,No,12,4,No,0
+Male,24,Patna,Student,1,0,6.89,5,0,'7-8 hours',Moderate,MCA,No,11,2,Yes,0
+Female,32,Patna,Student,3,0,5.75,4,0,'7-8 hours',Unhealthy,MBBS,No,1,5,Yes,0
+Male,29,Patna,Student,3,0,8.04,1,0,'Less than 5 hours',Healthy,B.Com,Yes,3,2,Yes,0
+Male,29,Patna,Student,1,0,5.11,3,0,'More than 8 hours',Moderate,MA,Yes,10,1,Yes,0
+Male,29,Kolkata,Student,2,0,6.83,3,0,'5-6 hours',Unhealthy,B.Pharm,No,8,3,Yes,0
+Male,33,Kolkata,Student,1,0,8.54,2,0,'More than 8 hours',Moderate,BBA,Yes,8,3,Yes,0
+Male,30,Patna,Student,2,0,5.11,5,0,'7-8 hours',Moderate,M.Ed,No,0,1,Yes,0
+Female,24,Kolkata,Student,3,0,7.68,2,0,'More than 8 hours',Moderate,B.Ed,No,10,5,No,0
+Male,28,Kolkata,Student,1,0,9.54,3,0,'Less than 5 hours',Unhealthy,M.Tech,Yes,4,1,Yes,0
+Male,31,Kolkata,Student,2,0,9.71,5,0,'7-8 hours',Moderate,LLB,Yes,4,4,Yes,0
+Female,31,Patna,Student,2,0,6,4,0,'Less than 5 hours',Healthy,'Class 12',Yes,8,4,Yes,0
+Male,26,Patna,Student,1,0,7.15,2,0,'More than 8 hours',Healthy,B.Tech,No,0,3,No,0
+Male,21,Patna,Student,1,0,6.03,1,0,'5-6 hours',Healthy,B.Arch,Yes,7,5,Yes,0
+Female,31,Kolkata,Student,3,0,9.44,4,0,'5-6 hours',Moderate,LLM,Yes,2,3,Yes,0
+Female,24,Kolkata,Student,2,0,8.21,3,0,'5-6 hours',Unhealthy,MCA,Yes,12,3,Yes,0
+Male,31,Patna,Student,3,0,7.04,2,0,'More than 8 hours',Moderate,BE,Yes,1,2,Yes,0
+Male,21,Patna,Student,1,0,8.38,5,0,'Less than 5 hours',Moderate,M.Com,Yes,11,1,Yes,0
+Male,26,Patna,Student,1,0,9.44,2,0,'7-8 hours',Unhealthy,MBBS,Yes,1,3,No,0
+Female,18,Kolkata,Student,2,0,7.79,4,0,'7-8 hours',Unhealthy,'Class 12',No,6,1,Yes,0
+Female,21,Patna,Student,1,0,6.16,4,0,'Less than 5 hours',Unhealthy,M.Com,Yes,12,1,Yes,0
+Female,29,Kolkata,Student,3,0,8.27,4,0,'5-6 hours',Unhealthy,BCA,Yes,0,1,No,0
+Female,33,Kolkata,Student,2,0,8.92,2,0,'More than 8 hours',Unhealthy,BHM,No,4,3,No,0
+Female,33,Patna,Student,3,0,5.66,5,0,'More than 8 hours',Moderate,M.Pharm,Yes,12,5,Yes,0
+Female,18,Patna,Student,4,0,6.17,5,0,'More than 8 hours',Unhealthy,'Class 12',No,4,1,No,0
+Male,24,Patna,Student,2,0,7.47,3,0,'Less than 5 hours',Unhealthy,B.Ed,No,12,1,Yes,0
+Female,19,Patna,Student,1,0,5.85,4,0,'7-8 hours',Moderate,'Class 12',No,5,5,Yes,0
+Male,33,Kolkata,Student,3,0,5.88,3,0,'More than 8 hours',Unhealthy,M.Pharm,Yes,11,1,No,0
+Female,30,Kolkata,Student,3,0,8.95,3,0,'7-8 hours',Healthy,MBBS,No,10,2,No,0
+Female,34,Patna,Student,2,0,9.49,2,0,'Less than 5 hours',Healthy,B.Pharm,Yes,2,2,No,0
+Male,21,Kolkata,Student,1,0,6.83,1,0,'7-8 hours',Unhealthy,B.Arch,No,12,1,Yes,0
+Female,18,Kolkata,Student,5,0,7.77,5,0,'7-8 hours',Unhealthy,MSc,Yes,8,1,No,0
+Male,27,Kolkata,Student,4,0,6.75,1,0,'5-6 hours',Healthy,BHM,Yes,10,4,No,0
+Female,24,Kolkata,Student,3,0,5.6,4,0,'More than 8 hours',Moderate,B.Com,No,0,2,Yes,0
+Male,30,Kolkata,Student,3,0,5.1,3,0,'7-8 hours',Moderate,B.Tech,No,10,3,No,0
+Male,33,Kolkata,Student,1,0,7.1,4,0,'5-6 hours',Moderate,MSc,Yes,12,3,No,0
+Male,30,Patna,Student,4,0,9.21,1,0,'Less than 5 hours',Unhealthy,B.Ed,Yes,9,1,No,0
+Female,30,Kolkata,Student,4,0,8.04,4,0,'7-8 hours',Unhealthy,BE,No,12,5,Yes,0
+Male,31,Patna,Student,2,0,9.63,1,0,'Less than 5 hours',Moderate,'Class 12',No,6,1,Yes,0
+Male,29,Kolkata,Student,2,0,9.89,4,0,'7-8 hours',Unhealthy,B.Arch,No,8,1,No,0
+Male,25,Patna,Student,2,0,9.21,5,0,'7-8 hours',Healthy,B.Ed,Yes,9,2,No,0
+Male,33,Kolkata,Student,1,0,6.78,2,0,'More than 8 hours',Healthy,B.Arch,No,12,2,Yes,0
+Female,19,Kolkata,Student,1,0,7.25,4,0,'Less than 5 hours',Unhealthy,'Class 12',No,7,3,No,0
+Female,24,Kolkata,Student,2,0,7.48,4,0,'More than 8 hours',Unhealthy,MBBS,Yes,8,5,No,0
+Female,25,Patna,Student,4,0,8.54,2,0,'Less than 5 hours',Healthy,MSc,No,6,1,No,0
+Male,33,Patna,Student,2,0,8.24,3,0,'7-8 hours',Healthy,MA,No,12,3,No,0
+Male,33,Patna,Student,3,0,8.16,4,0,'7-8 hours',Moderate,MBBS,No,12,1,No,0
+Female,29,Kolkata,Student,2,0,8.08,2,0,'7-8 hours',Moderate,BCA,No,1,1,No,0
+Male,19,Kolkata,Student,1,0,8.91,5,0,'7-8 hours',Unhealthy,'Class 12',Yes,12,3,No,0
+Female,29,Kolkata,Student,1,0,9.19,3,0,'5-6 hours',Healthy,BCA,No,10,1,Yes,0
+Female,33,Patna,Student,3,0,5.7,2,0,'7-8 hours',Unhealthy,B.Com,Yes,5,4,No,0
+Male,32,Kolkata,Student,2,0,9.89,2,0,'7-8 hours',Healthy,B.Tech,No,7,4,Yes,0
+Female,26,Patna,Student,3,0,9.5,2,0,'Less than 5 hours',Unhealthy,MCA,No,0,3,No,0
+Male,31,Patna,Student,3,0,5.74,4,0,'Less than 5 hours',Moderate,PhD,No,4,1,No,0
+Female,32,Patna,Student,3,0,6.42,4,0,'7-8 hours',Healthy,MCA,Yes,0,1,Yes,0
+Female,24,Kolkata,Student,2,0,9.94,5,0,'More than 8 hours',Healthy,LLM,Yes,8,5,Yes,0
+Female,29,Patna,Student,1,0,5.75,3,0,'More than 8 hours',Moderate,M.Pharm,No,6,3,Yes,0
+Female,28,Kolkata,Student,1,0,9.72,3,0,'5-6 hours',Healthy,BSc,No,6,1,Yes,0
+Male,29,Kolkata,Student,3,0,9.71,4,0,'5-6 hours',Moderate,BHM,No,5,1,No,0
+Male,25,Patna,Student,2,0,6.76,4,0,'Less than 5 hours',Unhealthy,MA,Yes,6,5,No,0
+Male,18,Patna,Student,1,0,9.78,3,0,'Less than 5 hours',Unhealthy,'Class 12',No,1,2,No,0
+Male,24,Kolkata,Student,5,0,7.24,1,0,'Less than 5 hours',Moderate,B.Arch,No,6,4,No,0
+Male,33,Patna,Student,2,0,8.94,4,0,'7-8 hours',Unhealthy,BCA,No,10,3,No,0
+Male,33,Patna,Student,1,0,9.29,3,0,'5-6 hours',Unhealthy,M.Tech,No,12,1,Yes,0
+Male,33,Patna,Student,2,0,8.95,4,0,'5-6 hours',Unhealthy,B.Ed,No,4,4,No,0
+Male,28,Kolkata,Student,3,0,6.1,2,0,'7-8 hours',Moderate,MD,Yes,12,1,Yes,0
+Male,22,Kolkata,Student,1,0,5.57,2,0,'Less than 5 hours',Healthy,BCA,Yes,12,1,No,0
+Female,25,Kolkata,Student,1,0,9.63,3,0,'7-8 hours',Moderate,MCA,No,5,2,Yes,0
+Male,32,Patna,Student,3,0,6.16,4,0,'More than 8 hours',Moderate,ME,No,0,3,No,0
+Male,34,Patna,Student,4,0,5.56,4,0,'7-8 hours',Healthy,M.Tech,No,6,1,Yes,0
+Male,31,Patna,Student,3,0,7.43,1,0,'Less than 5 hours',Unhealthy,MCA,No,6,2,No,0
+Male,24,Patna,Student,1,0,5.74,1,0,'Less than 5 hours',Moderate,B.Ed,No,12,5,Yes,0
+Male,31,Patna,Student,1,0,5.66,2,0,'7-8 hours',Unhealthy,LLM,No,11,2,Yes,0
+Male,33,Patna,Student,3,0,9.1,3,0,'More than 8 hours',Healthy,MA,Yes,11,4,Yes,0
+Male,31,Patna,Student,4,0,6.53,4,0,'More than 8 hours',Healthy,'Class 12',Yes,4,2,Yes,0
+Female,29,Patna,Student,5,0,8.77,3,0,'5-6 hours',Moderate,M.Ed,Yes,3,2,Yes,0
+Female,32,Kolkata,Student,4,0,7.37,1,0,'More than 8 hours',Unhealthy,MBA,Yes,12,2,Yes,0
+Male,30,Kolkata,Student,4,0,9.26,2,0,'5-6 hours',Moderate,MCA,No,1,3,No,0
+Female,32,Patna,Student,1,0,5.68,4,0,'7-8 hours',Healthy,B.Pharm,Yes,12,2,No,0
+Male,26,Patna,Student,3,0,10,1,0,'Less than 5 hours',Moderate,BSc,Yes,3,3,Yes,0
+Male,30,Kolkata,Student,1,0,7.37,1,0,'More than 8 hours',Moderate,MSc,No,2,5,No,0
+Female,29,Kolkata,Student,2,0,5.76,1,0,'5-6 hours',Moderate,B.Com,Yes,10,2,Yes,0
+Male,29,Kolkata,Student,2,0,9.86,4,0,'5-6 hours',Unhealthy,M.Pharm,No,3,4,No,0
+Male,30,Patna,Student,1,0,7.21,3,0,'7-8 hours',Healthy,B.Tech,Yes,12,2,Yes,0
+Male,33,Kolkata,Student,2,0,7.09,2,0,'5-6 hours',Unhealthy,BSc,Yes,11,3,Yes,0
+Male,30,Kolkata,Student,2,0,9.71,4,0,'5-6 hours',Healthy,M.Tech,Yes,7,2,Yes,0
+Male,24,Patna,Student,5,0,9.97,2,0,'7-8 hours',Moderate,BHM,Yes,3,2,Yes,0
+Male,33,Patna,Student,3,0,8.95,4,0,'More than 8 hours',Moderate,BCA,Yes,11,3,No,0
+Male,30,Kolkata,Student,1,0,7.1,1,0,'5-6 hours',Healthy,LLM,Yes,10,3,No,0
+Female,30,Kolkata,Student,3,0,7.53,4,0,'More than 8 hours',Healthy,M.Tech,No,10,3,Yes,0
+Male,31,Kolkata,Student,1,0,8.89,5,0,'More than 8 hours',Moderate,B.Ed,No,12,1,No,0
+Female,34,Patna,Student,3,0,8.75,4,0,'7-8 hours',Healthy,MA,No,1,3,Yes,0
+Male,27,Kolkata,Student,2,0,8.14,4,0,'7-8 hours',Healthy,M.Pharm,No,1,4,Yes,0
+Male,32,Patna,Student,3,0,7.09,3,0,'Less than 5 hours',Moderate,BA,Yes,6,3,Yes,0
+Male,30,Patna,Student,4,0,9.33,1,0,'7-8 hours',Unhealthy,BCA,No,12,1,No,0
+Male,31,Patna,Student,1,0,7.39,5,0,'5-6 hours',Unhealthy,MBBS,Yes,7,1,No,0
+Male,23,Patna,Student,2,0,9.84,4,0,'7-8 hours',Healthy,BE,No,1,3,Yes,0
+Male,27,Patna,Student,5,0,8.9,5,0,'5-6 hours',Moderate,B.Ed,No,7,3,No,0
+Male,32,Patna,Student,1,0,8.73,2,0,'More than 8 hours',Moderate,MBBS,No,0,5,No,0
+Female,34,Kolkata,Student,3,0,9.49,4,0,'7-8 hours',Healthy,BE,Yes,12,1,Yes,0
+Male,30,Patna,Student,3,0,6.83,2,0,'5-6 hours',Moderate,MCA,No,0,1,Yes,0
+Male,34,Patna,Student,3,0,9.94,4,0,'More than 8 hours',Moderate,BCA,No,4,4,Yes,0
+Female,33,Kolkata,Student,1,0,9.91,4,0,'More than 8 hours',Unhealthy,MCA,No,8,3,Yes,0
+Male,34,Patna,Student,1,0,9.74,3,0,'More than 8 hours',Moderate,B.Ed,No,12,1,No,0
+Female,30,Kolkata,Student,1,0,8.32,2,0,'Less than 5 hours',Unhealthy,MSc,No,1,2,No,0
+Male,20,Kolkata,Student,1,0,8.54,3,0,'5-6 hours',Unhealthy,'Class 12',No,5,1,Yes,0
+Female,19,Kolkata,Student,1,0,7.52,3,0,'5-6 hours',Moderate,'Class 12',No,7,3,Yes,0
+Female,23,Patna,Student,3,0,5.58,5,0,'7-8 hours',Healthy,Others,Yes,2,1,Yes,0
+Female,33,Kolkata,Student,1,0,9.39,4,0,'7-8 hours',Healthy,M.Ed,Yes,8,3,No,0
+Male,29,Kolkata,Student,1,0,9.71,4,0,'Less than 5 hours',Moderate,LLM,No,1,2,No,0
+Female,23,Kolkata,Student,3,0,8.92,5,0,'5-6 hours',Moderate,BA,No,10,4,No,0
+Female,27,Patna,Student,1,0,6.36,3,0,'7-8 hours',Healthy,BBA,No,2,4,No,0
+Female,18,Kolkata,Student,3,0,7.92,4,0,'Less than 5 hours',Moderate,'Class 12',No,6,1,No,0
+Female,31,Kolkata,Student,1,0,9.5,4,0,'More than 8 hours',Moderate,LLB,Yes,5,1,Yes,0
+Female,33,Kolkata,Student,3,0,5.76,4,0,'7-8 hours',Healthy,B.Com,No,0,3,No,0
+Male,29,Patna,Student,1,0,9.84,2,0,'More than 8 hours',Moderate,MBBS,No,9,1,No,0
+Female,20,Kolkata,Student,4,0,8.24,4,0,'Less than 5 hours',Moderate,'Class 12',No,7,4,No,0
+Male,33,Kolkata,Student,3,0,6.42,1,0,'Less than 5 hours',Moderate,B.Pharm,No,12,3,No,0
+Female,33,Patna,Student,3,0,5.79,1,0,'Less than 5 hours',Moderate,MBBS,No,0,1,No,0
+Female,33,Patna,Student,2,0,7.27,5,0,'7-8 hours',Moderate,MSc,No,12,4,Yes,0
+Male,20,Kolkata,Student,5,0,9.85,2,0,'More than 8 hours',Unhealthy,'Class 12',No,1,3,No,0
+Male,31,Patna,Student,3,0,8.24,4,0,'Less than 5 hours',Healthy,M.Ed,No,1,3,Yes,0
+Male,34,Patna,Student,3,0,9.21,5,0,'5-6 hours',Moderate,B.Tech,No,9,3,Yes,0
+Female,31,Patna,Student,3,0,9.19,3,0,'Less than 5 hours',Unhealthy,MBA,No,0,5,Yes,0
+Female,29,Kolkata,Student,2,0,9.44,4,0,'Less than 5 hours',Healthy,B.Com,No,5,2,No,0
+Female,28,Patna,Student,3,0,8.96,5,0,'Less than 5 hours',Moderate,B.Tech,Yes,0,2,No,0
+Male,30,Patna,Student,1,0,9.97,2,0,'5-6 hours',Healthy,BCA,Yes,7,3,No,0
+Male,32,Kolkata,Student,4,0,7.77,4,0,'5-6 hours',Unhealthy,B.Tech,No,2,1,No,0
+Female,31,Patna,Student,1,0,8.95,3,0,'5-6 hours',Healthy,M.Ed,Yes,12,2,No,0
+Female,34,Kolkata,Student,2,0,7.85,4,0,'5-6 hours',Healthy,B.Ed,Yes,7,3,No,0
+Female,34,Kolkata,Student,1,0,9.34,4,0,'Less than 5 hours',Healthy,M.Tech,No,10,3,No,0
+Male,19,Kolkata,Student,1,0,9.05,5,0,'7-8 hours',Moderate,'Class 12',No,2,4,No,0
+Female,29,Kolkata,Student,2,0,9.44,5,0,'7-8 hours',Healthy,BCA,Yes,7,1,No,0
+Female,18,Kolkata,Student,3,0,5.42,5,0,'5-6 hours',Moderate,'Class 12',No,2,1,Yes,0
+Male,26,Patna,Student,1,0,9.21,1,0,'Less than 5 hours',Moderate,M.Ed,No,9,2,No,0
+Female,26,Patna,Student,4,0,9.96,5,0,'7-8 hours',Moderate,B.Arch,No,2,3,No,0
+Male,33,Kolkata,Student,2,0,6.1,5,0,'Less than 5 hours',Moderate,PhD,Yes,12,1,Yes,0
+Female,24,Kolkata,Student,1,0,7.32,4,0,'More than 8 hours',Moderate,MA,Yes,8,3,Yes,0
+Male,33,Kolkata,Student,3,0,6.38,3,0,'More than 8 hours',Unhealthy,MSc,No,11,1,Yes,0
+Male,29,Kolkata,Student,1,0,7.88,5,0,'More than 8 hours',Healthy,B.Ed,Yes,0,4,No,0
+Male,21,Kolkata,Student,1,0,5.85,4,0,'Less than 5 hours',Moderate,MA,No,4,2,No,0
+Male,32,Kolkata,Student,4,0,8.92,5,0,'5-6 hours',Healthy,M.Tech,Yes,6,2,No,0
+Male,28,Kolkata,Student,1,0,5.46,2,0,'5-6 hours',Moderate,B.Pharm,No,6,2,Yes,0
+Male,28,Patna,Student,2,0,5.86,2,0,'Less than 5 hours',Unhealthy,LLB,No,3,2,Yes,0
+Female,29,Patna,Student,3,0,9.05,5,0,'7-8 hours',Healthy,B.Tech,Yes,1,2,No,0
+Male,29,Kolkata,Student,2,0,6.02,4,0,'7-8 hours',Healthy,'Class 12',No,0,4,No,0
+Male,34,Patna,Student,1,0,6.74,1,0,'7-8 hours',Unhealthy,B.Ed,No,2,5,Yes,0
+Female,18,Kolkata,Student,1,0,5.91,4,0,'7-8 hours',Moderate,'Class 12',No,2,1,No,0
+Female,29,Kolkata,Student,1,0,8.95,3,0,'5-6 hours',Unhealthy,MBBS,No,5,1,No,0
+Male,31,Kolkata,Student,1,0,7.1,5,0,'Less than 5 hours',Moderate,MSc,No,11,2,No,0
+Female,24,Kolkata,Student,2,0,6.37,4,0,'Less than 5 hours',Moderate,B.Arch,Yes,1,2,Yes,0
+Male,32,Kolkata,Student,1,0,5.76,3,0,'Less than 5 hours',Healthy,M.Ed,No,8,5,No,0
+Male,32,Kolkata,Student,2,0,7.1,5,0,'7-8 hours',Moderate,LLM,No,11,1,Yes,0
+Female,20,Kolkata,Student,4,0,5.32,3,0,'More than 8 hours',Unhealthy,'Class 12',Yes,0,3,No,0
+Male,28,Patna,Student,1,0,7.91,1,0,'7-8 hours',Healthy,B.Ed,Yes,8,5,No,0
+Female,33,Kolkata,Student,4,0,9.21,5,0,'Less than 5 hours',Moderate,M.Ed,No,6,1,No,0
+Female,30,Kolkata,Student,3,0,9.54,2,0,'Less than 5 hours',Unhealthy,M.Com,No,3,5,Yes,0
+Male,33,Kolkata,Student,3,0,7.13,5,0,'7-8 hours',Moderate,M.Tech,No,3,2,No,0
+Male,29,Patna,Student,2,0,9.79,4,0,'5-6 hours',Moderate,M.Pharm,Yes,10,2,No,0
+Female,20,Patna,Student,3,0,7,2,0,'5-6 hours',Moderate,'Class 12',No,2,5,Yes,0
+Female,27,Patna,Student,5,0,8.04,1,0,'7-8 hours',Moderate,B.Tech,No,1,3,Yes,0
+Female,33,Patna,Student,3,0,6.39,3,0,'5-6 hours',Moderate,BE,Yes,6,3,Yes,0
+Male,34,Patna,Student,3,0,9.56,1,0,'7-8 hours',Healthy,M.Ed,No,8,2,Yes,0
+Male,28,Patna,Student,4,0,8.97,2,0,'More than 8 hours',Healthy,MSc,No,7,1,No,0
+Male,19,Kolkata,Student,2,0,5.89,5,0,'More than 8 hours',Moderate,'Class 12',Yes,10,4,No,0
+Female,28,Kolkata,Student,4,0,6.02,3,0,'More than 8 hours',Healthy,B.Ed,No,2,3,No,0
+Male,29,Kolkata,Student,3,0,8.14,2,0,'More than 8 hours',Moderate,B.Arch,Yes,2,2,Yes,0
+Male,23,Kolkata,Student,1,0,5.75,4,0,'More than 8 hours',Unhealthy,BHM,No,0,1,No,0
+Female,24,Kolkata,Student,1,0,6.81,1,0,'Less than 5 hours',Moderate,B.Ed,No,10,2,Yes,0
+Male,26,Kolkata,Student,3,0,9.21,3,0,'Less than 5 hours',Moderate,BCA,Yes,11,1,No,0
+Male,22,Patna,Student,3,0,5.82,1,0,'Less than 5 hours',Moderate,B.Com,No,5,3,Yes,0
+Male,34,Patna,Student,4,0,7.53,1,0,'7-8 hours',Moderate,PhD,No,4,2,No,0
+Male,32,Patna,Student,1,0,9.56,5,0,'7-8 hours',Unhealthy,B.Ed,Yes,1,5,Yes,0
+Female,28,Kolkata,Student,2,0,7.9,5,0,'5-6 hours',Moderate,M.Pharm,No,11,1,No,0
+Male,23,Kolkata,Student,1,0,5.58,1,0,'More than 8 hours',Unhealthy,BHM,No,12,3,No,0
+Female,33,Kolkata,Student,1,0,9.96,2,0,'7-8 hours',Unhealthy,BSc,Yes,10,1,Yes,0
+Female,21,Kolkata,Student,1,0,7.85,1,0,'Less than 5 hours',Moderate,BCA,Yes,1,3,Yes,0
+Male,29,Patna,Student,1,0,9.91,2,0,'7-8 hours',Healthy,BCA,No,2,2,No,0
+Male,18,Patna,Student,4,0,8.47,1,0,'5-6 hours',Moderate,'Class 12',No,0,2,Yes,0
+Female,33,Kolkata,Student,1,0,9.96,2,0,'7-8 hours',Unhealthy,B.Arch,No,5,1,Yes,0
+Male,33,Patna,Student,4,0,8.62,3,0,'More than 8 hours',Unhealthy,LLM,Yes,8,3,No,0
+Male,25,Kolkata,Student,4,0,8.04,2,0,'7-8 hours',Moderate,B.Pharm,No,6,3,No,0
+Male,19,Kolkata,Student,1,0,5.6,4,0,'More than 8 hours',Moderate,'Class 12',No,4,3,No,0
+Male,34,Kolkata,Student,2,0,5.1,5,0,'More than 8 hours',Moderate,M.Com,No,5,3,No,0
+Male,28,Kolkata,Student,3,0,6.89,5,0,'Less than 5 hours',Moderate,MSc,Yes,10,1,No,0
