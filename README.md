@@ -22,11 +22,8 @@ pip install -r requirements.txt
 
 ## To generate the ITL-LIME explanation, follow the following steps:
 - Select the target instance for explanation (modify [target_instance_selection_and_NN.py](./target_instance_selection_and_NN.py)). (modify the appropriate script).
-
 - Run [compute_fidelity.py](./compute_fidelity.py) to execute the full pipeline and view explanations.
-
 - For stability analysis, run [itl_lime_stability.py](./itl_lime_stability.py).
-
 - For robustness evaluation, run [itl_lime_robustness.py](./itl_lime_robustness.py).
 
 ## Quick Start - ITL-LIME
@@ -36,6 +33,7 @@ After installing dependencies and downloading the datasets, you can generate an 
 ```bash
 python target_instance_selection_and_NN.py
 python compute_fidelity.py
+```
 
 This will:
 
