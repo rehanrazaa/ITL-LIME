@@ -19,8 +19,8 @@ ITL-LIME uses two real-world healthcare datasets:
 ```sh
 pip install -r requirements.txt
 ```
-## Quick Start
-### To generate the ITL-LIME explanation, follow the following steps:
+
+## To generate the ITL-LIME explanation, follow the following steps:
 - Select the target instance for explanation (modify [target_instance_selection_and_NN.py](./target_instance_selection_and_NN.py)). (modify the appropriate script).
 
 - Run [compute_fidelity.py](./compute_fidelity.py) to execute the full pipeline and view explanations.
@@ -29,6 +29,20 @@ pip install -r requirements.txt
 
 - For robustness evaluation, run [itl_lime_robustness.py](./itl_lime_robustness.py).
 
+## Quick Start - ITL-LIME
+
+After installing dependencies and downloading the datasets, you can generate an explanation for a target instance with:
+
+```bash
+python target_instance_selection_and_NN.py
+python compute_fidelity.py
+
+This will:
+
+- Select a target instance,
+- Build a real neighborhood using ITL-LIME,
+- Train the surrogate model, and
+- Print the fidelity score and ITL-LIME explanation.
 
 ## SCARF Github
 Link: https://github.com/Alcoholrithm/TabularS3L
