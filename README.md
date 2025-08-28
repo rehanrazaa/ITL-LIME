@@ -20,7 +20,7 @@ pip install ts3l
 ```
 ## Quick Start
 ### To generate the ITL-LIME explanation, follow the following steps:
-- Select the target instance for explanation (modify the appropriate script).
+- Select the target instance for explanation (modify [target_instance_selection_and_NN.py](./target_instance_selection_and_NN.py)). (modify the appropriate script).
 
 - Run [compute_fidelity.py](./compute_fidelity.py) to execute the full pipeline and view explanations.
 
@@ -130,11 +130,12 @@ SCARF introduces a contrastive learning framework specifically tailored for tabu
 
 ## Comparison Studies
 
-- [D-LIME Paper] (https://arxiv.org/abs/1906.10263)
-- [A-LIME Paper] (https://link.springer.com/chapter/10.1007/978-3-030-33607-3_49)
-- [US-LIME Paper] (https://www.sciencedirect.com/science/article/pii/S0925231224007409)
-- [Bay-LIME Paper] (https://arxiv.org/abs/2012.03058)
-- [S-LIME Paper] (https://dl.acm.org/doi/abs/10.1145/3447548.3467274)
+- [D-LIME Paper](https://arxiv.org/abs/1906.10263)
+- [A-LIME Paper](https://link.springer.com/chapter/10.1007/978-3-030-33607-3_49)
+- [US-LIME Paper](https://www.sciencedirect.com/science/article/pii/S0925231224007409)
+- [Bay-LIME Paper](https://arxiv.org/abs/2012.03058)
+- [S-LIME Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467274)
+
 
 
 ## Using the code
