@@ -10,25 +10,17 @@ from pytorch_lightning.loggers import CSVLogger
 from ts3l.models.scarf import NTXentLoss
 from target_source_instance_combined import get_combined_instances
 
-
 def get_scarf_encoder():
-
-
     X_combined_instances, X_instance_train, X_instance_valid = get_combined_instances()
-
-
     metric = "accuracy_score"
     input_dim = X_instance_train.shape[1]
     pretraining_head_dim = 1024
     output_dim = 2
     head_depth = 2
     dropout_rate = 0.1
-
     corruption_rate = 0.6
-
     batch_size = 64
     max_epochs = 2
-
     categorical_cols = ['Gender', 'City', 'Profession', 'Degree', 'Dietary Habits',
                         'Family History of Mental Illness', 'Have you ever had suicidal thoughts ?']
     continuous_cols = ['Age', 'CGPA', 'Work/Study Hours', 'Financial Stress', 'Study Satisfaction',
@@ -52,28 +44,7 @@ def get_scarf_encoder():
 
     pl_scarf = SCARFLightning(config)
 
-    # import pytorch_lightning as pl
-    # class SCARFLightning(pl.LightningModule):
-    #     def training_step(self, batch, batch_idx):
-    #         # Compute the training loss
-    #         loss = self.compute_loss(batch)
-
-    #         # Log the training loss
-    #         self.log("train_loss", loss, on_step=True, on_epoch=True, prog_bar=True, logger=True)
-
-    #         return loss
-
-    #     def validation_step(self, batch, batch_idx):
-    #         # Compute the validation loss
-    #         loss = self.compute_loss(batch)
-
-    #         # Log the validation loss
-    #         self.log("val_loss", loss, on_step=True, on_epoch=True, prog_bar=True, logger=True)
-
-    #         return loss
-
-
-    ### First Phase Learning
+    ### Pre-training (Encoder Learning)
     train_ds = SCARFDataset(X_instance_train, config = config, continuous_cols=continuous_cols, category_cols=categorical_cols)
     valid_ds = SCARFDataset(X_instance_valid, config = config, continuous_cols=continuous_cols, category_cols=categorical_cols)
 
@@ -91,15 +62,8 @@ def get_scarf_encoder():
 
     trainer.fit(pl_scarf, datamodule)
     encoder = pl_scarf.model.backbone_module.backbone
-
-    print("Encoder training done")
-
     return encoder
 
-
-
-
-get_scarf_encoder()
 
 
 
