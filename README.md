@@ -1,14 +1,20 @@
 # ITL-LIME: Instance-Based Transfer Learning for Enhancing Local Explanations in Low-Resource Data Settings
 
-A novel Instance-based Transfer Learning LIME framework (ITL-LIME) that enhances explanation fidelity and stability in dataconstrained environments. ITL-LIME introduces instance transfer learning into the LIME framework by leveraging relevant real instances from a related source domain to aid the explanation process
-in the target domain. Specifically, it employ clustering to partition the source domain into clusters with representative prototypes. Instead of generating random perturbations, ITL-LIME method retrieves pertinent real source instances from the source cluster whose prototype is most similar to the target instance. 
-These are then combined with the target instance’s neighboring real instances. To define a compact locality, ITL-LIME further construct a contrastive learning based encoder as a weighting mechanism to assign weights to the instances from the combined set based on their proximity to the target instance. 
+A novel Instance-based Transfer Learning LIME framework (ITL-LIME) that enhances explanation fidelity and stability in data-constrained environments. ITL-LIME introduces instance transfer learning into the LIME framework by leveraging relevant real instances from a related source domain to aid the explanation process
+in the target domain. Specifically, it employs clustering to partition the source domain into clusters with representative prototypes. Instead of generating random perturbations, the ITL-LIME method retrieves pertinent real source instances from the source cluster whose prototype is most similar to the target instance. 
+These are then combined with the target instance’s neighboring real instances. To define a compact locality, ITL-LIME further constructs a contrastive learning based encoder as a weighting mechanism to assign weights to the instances from the combined set based on their proximity to the target instance. 
 Finally, these weighted source and target instances are used to train the surrogate model for explanation purposes. 
 
 ## Installation
 ```sh
 pip install ts3l
 ```
+## How to run the code
+### To generate the ITL-LIME explanation, follow the following steps:
+1: Select the target instance using ##.py for which you want to generate the explanation.
+2: Run the compute fidelity .py file; it will run the complete pipeline and  return the fidelity and explanation of the selected instance.
+3: To compute the stability, please run the .py.
+4: To compute the robustness of the ITL-LIME explanation, please run.py.
 
 ## SCARF Github
 Link: https://github.com/Alcoholrithm/TabularS3L
