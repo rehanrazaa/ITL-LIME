@@ -118,3 +118,12 @@ Contributions to this implementation are highly appreciated. Whether it's sugges
 
 ## Citation
 If you find our work helpful in your research, please cite it as:
+
+```
+@article{raza2025itl,
+  title={ITL-LIME: Instance-Based Transfer Learning for Enhancing Local Explanations in Low-Resource Data Settings},
+  author={Raza, Rehan and Wang, Guanjin and Wong, Kevin and Laga, Hamid and Fisichella, Marco},
+  journal={arXiv preprint arXiv:2508.13672},
+  year={2025}
+}
+```
