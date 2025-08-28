@@ -8,21 +8,21 @@ from target_instance_selection_and_NN import get_target_instance
 from SCARF_training import get_scarf_encoder
 from scarf_weighting import scarf_weighting
 
+# ---------------------- HELPER ----------------------
 X_target, _, _, _, _, _, rf_model_target = get_target_data()
 _,target_instance  = get_target_instance()
 encoder = get_scarf_encoder()
 top_per_samples , top_per_weights = scarf_weighting()
 
-# ---------------------- HELPER ----------------------
 def encode_instance(encoder, df):
     """
     Encodes a single instance or batch of instances using the provided encoder.
     Handles BatchNorm layers safely for single instances.
     """
-    encoder.eval()  # Use running statistics for batchnorm
+    encoder.eval() 
     tensor_input = torch.tensor(df.values, dtype=torch.float32)
     if tensor_input.ndim == 1:
-        tensor_input = tensor_input.unsqueeze(0)  # Ensure batch dimension
+        tensor_input = tensor_input.unsqueeze(0)  
     with torch.no_grad():
         encoded = encoder(tensor_input).numpy()
     return encoded
