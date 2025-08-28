@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![arXiv](https://img.shields.io/badge/arXiv-2508.13672-b31b1b.svg)](https://arxiv.org/abs/2508.13672)
+
 # ITL-LIME: Instance-Based Transfer Learning for Enhancing Local Explanations in Low-Resource Data Settings
 
 A novel Instance-based Transfer Learning LIME framework (ITL-LIME) that enhances explanation fidelity and stability in data-constrained environments. ITL-LIME introduces instance transfer learning into the LIME framework by leveraging relevant real instances from a related source domain to aid the explanation process
@@ -14,7 +17,7 @@ ITL-LIME uses two real-world healthcare datasets:
 
 ## Installation
 ```sh
-pip install ts3l
+pip install -r requirements.txt
 ```
 ## Quick Start
 ### To generate the ITL-LIME explanation, follow the following steps:
