@@ -5,14 +5,12 @@ in the target domain. Specifically, it employs clustering to partition the sourc
 These are then combined with the target instance’s neighboring real instances. To define a compact locality, ITL-LIME further constructs a contrastive learning based encoder as a weighting mechanism to assign weights to the instances from the combined set based on their proximity to the target instance. 
 Finally, these weighted source and target instances are used to train the surrogate model for explanation purposes. 
 
-## Summary
+## Datasets
 
-- Select a target instance and a neighbour target real instance using KNN.
-- Clustering a source domain into representative prototypes.
-- Retrieving real source instances similar to the target sample.
-- Combining these with neighboring target instances.
-- Using a contrastive learning-based (SCARF) encoder to weight instances by proximity, forming a compact and meaningful local neighborhood.
-- Training a weighted surrogate model to produce more reliable local explanations
+ITL-LIME uses two real-world healthcare datasets:
+- [**Diabetes Dataset**](https://www.kaggle.com/datasets/priyamchoksi/100000-diabetes-clinical-dataset): EHR data from the mainland U.S. (DSD), Virgin Islands (DTD1), and Guam (DTD2); 10 features, binary labels.
+- [**Student Depression Dataset**](https://www.openml.org/search?type=data&sort=runs&id=46753): Demographic, academic, and lifestyle data from Western India (SSD), East India (STD1), and South India (STD2); 16 features, binary labels.
+
 
 ## Installation
 ```sh
@@ -136,7 +134,14 @@ SCARF introduces a contrastive learning framework specifically tailored for tabu
 - [Bay-LIME Paper](https://arxiv.org/abs/2012.03058)
 - [S-LIME Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467274)
 
+## Summary
 
+- Select a target instance and a neighbour target real instance using KNN.
+- Clustering a source domain into representative prototypes.
+- Retrieving real source instances similar to the target sample.
+- Combining these with neighboring target instances.
+- Using a contrastive learning-based (SCARF) encoder to weight instances by proximity, forming a compact and meaningful local neighborhood.
+- Training a weighted surrogate model to produce more reliable local explanations
 
 ## Using the code
 Have a look at the LICENSE.
