@@ -42,6 +42,12 @@ This will:
 - Train the surrogate model, and
 - Print the fidelity score and ITL-LIME explanation.
 
+You can also evaluate stability and robustness with:
+```bash
+python itl_lime_stability.py
+python itl_lime_robustness.py
+```
+
 ## SCARF Github
 Link: https://github.com/Alcoholrithm/TabularS3L
 
