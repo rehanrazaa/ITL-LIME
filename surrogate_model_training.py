@@ -24,8 +24,6 @@ precision_test_scores = []
 recall_test_scores = []
 auc_test_scores = []
 
-#...........
-
 # Loop through the splits
 for train_index, test_index in skf.split(top_per_samples, y_blackbox_target_pred_class):
     # Use iloc to properly index DataFrames/Series with integer indices
@@ -33,7 +31,7 @@ for train_index, test_index in skf.split(top_per_samples, y_blackbox_target_pred
     y_train, y_test = y_blackbox_target_pred_class[train_index], y_blackbox_target_pred_class[test_index]
     weights_train, weights_test = top_per_weights[train_index], top_per_weights[test_index]
 
-    # Train the SVM model on the training set
+    # Train the Linear SVM model as an interpretable (surrogate) model
     svm_model_target = SVC(kernel='linear', C=1000.0, class_weight='balanced')
     svm_model_target.fit(X_train, y_train, sample_weight=weights_train)
 
@@ -47,7 +45,7 @@ for train_index, test_index in skf.split(top_per_samples, y_blackbox_target_pred
     y_test_pred_binary = (y_test_pred_class > 0).astype(int)
     y_test_binary = (y_test > 0).astype(int)
 
-    # Calculate metrics for the training set
+    # Calculate fidelity for the training set
     accuracy_train = accuracy_score(y_train_binary, y_train_pred_binary)
     f1_train = f1_score(y_train_binary, y_train_pred_binary, zero_division='warn')
     precision_train = precision_score(y_train_binary, y_train_pred_binary, zero_division='warn')
@@ -57,14 +55,14 @@ for train_index, test_index in skf.split(top_per_samples, y_blackbox_target_pred
     else:
         auc_train = 'Undefined (only one class present)'
 
-    # Store training metrics
+    # Store training fidelity metrics
     accuracy_train_scores.append(accuracy_train)
     f1_train_scores.append(f1_train)
     precision_train_scores.append(precision_train)
     recall_train_scores.append(recall_train)
     auc_train_scores.append(auc_train)
 
-    # Calculate metrics for the test set
+    # Calculate fidelity for the test set
     accuracy_test = accuracy_score(y_test_binary, y_test_pred_binary)
     f1_test = f1_score(y_test_binary, y_test_pred_binary, zero_division='warn')
     precision_test = precision_score(y_test_binary, y_test_pred_binary, zero_division='warn')
@@ -74,13 +72,13 @@ for train_index, test_index in skf.split(top_per_samples, y_blackbox_target_pred
     else:
         auc_test = 'Undefined (only one class present)'
 
-    # Store test metrics
+    # Store test fidelity metrics
     accuracy_test_scores.append(accuracy_test)
     f1_test_scores.append(f1_test)
     precision_test_scores.append(precision_test)
     recall_test_scores.append(recall_test)
     auc_test_scores.append(auc_test)
-#............
+
 # Compute mean and std for all metrics (training and test)
 def compute_mean_std(metrics_scores):
     mean_score = np.mean(metrics_scores)
