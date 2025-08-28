@@ -5,16 +5,29 @@ in the target domain. Specifically, it employs clustering to partition the sourc
 These are then combined with the target instance’s neighboring real instances. To define a compact locality, ITL-LIME further constructs a contrastive learning based encoder as a weighting mechanism to assign weights to the instances from the combined set based on their proximity to the target instance. 
 Finally, these weighted source and target instances are used to train the surrogate model for explanation purposes. 
 
+## Summary
+
+- Select a target instance and a neighbour target real instance using KNN.
+- Clustering a source domain into representative prototypes.
+- Retrieving real source instances similar to the target sample.
+- Combining these with neighboring target instances.
+- Using a contrastive learning-based (SCARF) encoder to weight instances by proximity, forming a compact and meaningful local neighborhood.
+- Training a weighted surrogate model to produce more reliable local explanations
+
 ## Installation
 ```sh
 pip install ts3l
 ```
-## How to run the code
+## Quick Start
 ### To generate the ITL-LIME explanation, follow the following steps:
-1: Select the target instance using ##.py for which you want to generate the explanation.
-2: Run the compute fidelity .py file; it will run the complete pipeline and  return the fidelity and explanation of the selected instance.
-3: To compute the stability, please run the .py.
-4: To compute the robustness of the ITL-LIME explanation, please run.py.
+- Select the target instance for explanation (modify the appropriate script).
+
+- Run [compute_fidelity.py](./compute_fidelity.py) to execute the full pipeline and view explanations.
+
+- For stability analysis, run [itl_lime_stability.py](./itl_lime_stability.py).
+
+- For robustness evaluation, run [itl_lime_robustness.py](./itl_lime_robustness.py).
+
 
 ## SCARF Github
 Link: https://github.com/Alcoholrithm/TabularS3L
