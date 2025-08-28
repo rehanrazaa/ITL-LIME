@@ -19,8 +19,8 @@ def get_scarf_encoder():
     head_depth = 2
     dropout_rate = 0.1
     corruption_rate = 0.6
-    batch_size = 64
-    max_epochs = 2
+    batch_size = 256
+    max_epochs = 1000
     categorical_cols = ['Gender', 'City', 'Profession', 'Degree', 'Dietary Habits',
                         'Family History of Mental Illness', 'Have you ever had suicidal thoughts ?']
     continuous_cols = ['Age', 'CGPA', 'Work/Study Hours', 'Financial Stress', 'Study Satisfaction',
@@ -52,7 +52,7 @@ def get_scarf_encoder():
     logger = CSVLogger("logs", name="scarf_first_stage")
 
     trainer = Trainer(
-                        accelerator = 'gpu',
+                        accelerator = 'gpu', # change to cpu if gpu is not available 
                         max_epochs = max_epochs,
                         num_sanity_val_steps = 2,
                         log_every_n_steps=10,
@@ -63,11 +63,3 @@ def get_scarf_encoder():
     trainer.fit(pl_scarf, datamodule)
     encoder = pl_scarf.model.backbone_module.backbone
     return encoder
-
-
-
-
-
-
-
-
