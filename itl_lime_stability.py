@@ -67,20 +67,11 @@ def compute_lime_stability(target_instance, encoder, predict_proba_fn):
             np.zeros(n_target_samples),  # target samples label 0
             np.ones(n_source_samples)    # source samples label 1
         ])
-        # Train domain classifier (e.g., Logistic Regression)
-        domain_classifier = LogisticRegression(max_iter=1000)
-        domain_classifier.fit(encoded_all, labels_domain)
-        # Compute domain weights
-        p_source = domain_classifier.predict_proba(encoded_all)[:, 1]
-        p_target = 1 - p_source  # probability that sample belongs to target domain
-        domain_weights = p_target / (1 - p_target + 1e-6)
-
         # Compute locality weights
         distances = euclidean_distances(encoded_all, encoded_instance).flatten()
         kernel_width = 0.5 * np.sqrt(encoded_all.shape[1])
         locality_weights = np.exp(-(distances ** 2) / (kernel_width ** 2))
-        # Combine domain and locality weights
-        final_weights = domain_weights * locality_weights
+        final_weights = locality_weights
         # Normalize final weights (important for stability)
         final_weights = final_weights / np.max(final_weights)
         # Select top samples based on final weights
