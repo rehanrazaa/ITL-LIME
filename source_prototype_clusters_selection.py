@@ -24,7 +24,7 @@ def get_source_cluster_instances():
     # Extract prototypes based on the selected indices
     prototypes = X.loc[prototype_indices].copy()
     # Assuming `target_instance_index` is the row (instance) you want to find the best prototype for
-    target_instance = X.iloc[target_instance_index]  # Set `target_instance_index` to the row index of your target
+    target_instance = X_target_test.iloc[target_instance_index]
     # Calculate the distance between the target instance and each prototype
     distances_to_prototypes = np.linalg.norm(prototypes.values - target_instance.values, axis=1)
     # Find the closest prototype (the one with the minimum distance)
@@ -83,3 +83,4 @@ def get_source_cluster_instances():
     # Optional Sample 500 instances
     source_instances_lime = source_instances_lime.sample(n=450, random_state=42)
     return source_instances_lime
+
